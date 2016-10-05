@@ -1,9 +1,11 @@
 multiset<int> graph[N];
 stack<int> path;
 
-//  It suffices to call dfs1 just
+// -> It suffices to call dfs1 just
 // one time leaving from node 0.
-// O(n * log(n))
+// -> To calculate the path,
+// call the dfs from the odd degree node.
+// -> O(n * log(n))
 void dfs1(int u)
 {
   while(graph[u].size())
