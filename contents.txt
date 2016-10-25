@@ -1,0 +1,51 @@
+[Graph Algorithms]
+2sat.cpp	2-SAT
+kosaraju.cpp	Kosaraju
+isomorfismo.cpp	Tree Isomorphism
+lca.cpp	LCA
+pontes_art.cpp	Bridges and Articulation Points
+eulerian_path.cpp	Eulerian Tour
+floydWarshall.cpp	Floyd Warshall
+
+[Strings]
+aho_corasick.cpp	Aho-Corasick
+kmp.cpp	KMP
+sufix_array.cpp	Suffix Array
+Rabin_karp.cpp	Rabin Karp
+
+
+[Mathematics]
+bignumber.cpp	Big Number
+chinese_remainder.cpp	Chinese Remainder
+mat_pow.cpp	Matrix Exponentiation
+pascal.cpp	Pascal Triangle
+phi.cpp	Euler's Totient Function
+pollard_rho.cpp	Pollard Rho
+erat.cpp	Sieve of Eratosthenes
+euc_extd.cpp	Extended Euclidean Algorithm
+mul_inv.cpp	Multiplicative Inverse
+
+
+[Combinatorial Optimization]
+dinic.cpp	Dinic
+matching.cpp	Hopcroft-Karp
+mincost_maxflow.cpp	Min Cost Max Flow
+edmonds.cpp	Edmonds Karp
+
+
+[Miscellaneous]
+#convex.cpp	
+#convex_hull_trick.cpp
+#convexhull.cpp
+#divide_conquer.cpp
+#dsu.cpp
+#geometria_basica.cpp
+#invertion_count.cpp
+#lis.cpp
+#ret_histograma.cpp
+#rmq_idx.cpp
+#romario.cpp
+#rsq_lazy.cpp
+#seg_vector.cpp
+#simpson.cpp
+#sparce.cpp

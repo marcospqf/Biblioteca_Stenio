@@ -17,7 +17,7 @@ bool same(int i, int j)
 void unionSet(int i, int j)
 {
   if (!same(i, j)) {
-    int x = findset(i), y=findset(j);;
+    int x = findset(i), y=findset(j);
   if (rank[x] > rank[y])
       p[y] = x;
     else {
