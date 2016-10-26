@@ -5,6 +5,7 @@
  * para '<' na funcao query;
  * Nao chamar query com B ou A vazios! Atualizar dp para
  * depois fazer a query =)
+ * ATENCAO COM O DOUBLE!! ESTA EM LONG LONG :) 
 */
 vi A[N], B[N];
 int pont[N];
