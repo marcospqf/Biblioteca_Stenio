@@ -14,6 +14,12 @@ sufix_array.cpp	Suffix Array
 Rabin_karp.cpp	Rabin Karp
 
 
+[Numerical Algorithms]
+fft_cara.cpp	Fast Fourier Transform
+fft_vazek.cpp	Fast Fourier Transform 2
+simpson.cpp	Simpson's Algorithm
+
+
 [Mathematics]
 bignumber.cpp	Big Number
 chinese_remainder.cpp	Chinese Remainder
