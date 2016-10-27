@@ -1,3 +1,33 @@
+// FFT - The Iterative Version
+// 
+// Running Time:
+//    O(n*log n)
+// 
+// How To Use:
+//   fft(a,1)
+//   fft(b,1)
+//   mul(a,b)
+//   fft(a,-1)
+//  
+// INPUT:
+//  - fft method:
+//      * The vector representing the polynomial
+//      * 1 to normal transform
+//      * -1 to inverse transform
+//  - mul method:
+//      * The two polynomials to be multiplyed
+//
+// OUTPUT:
+//  - fft method: Transforms the vector sent.
+//  - mul method: The result is kept in the first vector.
+//
+// NOTES:
+//  - You can either use the struct defined of define dificil as complex<double>
+// 
+// SOLVED:
+//  * Codeforces Round #296 (Div. 1) D. Fuzzy Search
+//  
+
 struct dificil {
 	double real;
 	double im;
@@ -26,14 +56,8 @@ struct dificil {
 };
 
 dificil tmp[MAXN*2];
-int tam,coco,maiorpot2[MAXN];
+int coco,maiorpot2[MAXN];
 
-/*how to use:
-	fft(a,1)
-	fft(b,1)
-	mul(a,b)
-	fft(a,-1)
- */
 void fft(vector<dificil> &A, int s)
 {
 	int n = A.size(), p = 0;
@@ -84,7 +108,7 @@ void fft(vector<dificil> &A, int s)
 
 void mul(vector<dificil> &a, vector<dificil> &b)
 {
-	for(int i=0;i<tam;i++)
+	for(int i=0;i<a.size();i++)
 	{
 		a[i]=a[i]*b[i];
 	}

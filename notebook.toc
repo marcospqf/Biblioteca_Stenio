@@ -14,19 +14,19 @@
 \contentsline {section}{\numberline {3}Numerical Algorithms}{5}{section.3}
 \contentsline {subsection}{\numberline {3.1}Fast Fourier Transform}{5}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Fast Fourier Transform 2}{5}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Simpson\'s Algorithm}{5}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.3}Simpson\'s Algorithm}{6}{subsection.3.3}
 \contentsline {section}{\numberline {4}Mathematics}{6}{section.4}
 \contentsline {subsection}{\numberline {4.1}Big Number}{6}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}Chinese Remainder}{6}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Matrix Exponentiation}{6}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Pascal Triangle}{6}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.3}Matrix Exponentiation}{7}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Pascal Triangle}{7}{subsection.4.4}
 \contentsline {subsection}{\numberline {4.5}Euler\'s Totient Function}{7}{subsection.4.5}
 \contentsline {subsection}{\numberline {4.6}Pollard Rho}{7}{subsection.4.6}
-\contentsline {subsection}{\numberline {4.7}Sieve of Eratosthenes}{7}{subsection.4.7}
-\contentsline {subsection}{\numberline {4.8}Extended Euclidean Algorithm}{7}{subsection.4.8}
+\contentsline {subsection}{\numberline {4.7}Sieve of Eratosthenes}{8}{subsection.4.7}
+\contentsline {subsection}{\numberline {4.8}Extended Euclidean Algorithm}{8}{subsection.4.8}
 \contentsline {subsection}{\numberline {4.9}Multiplicative Inverse}{8}{subsection.4.9}
 \contentsline {section}{\numberline {5}Combinatorial Optimization}{8}{section.5}
 \contentsline {subsection}{\numberline {5.1}Dinic}{8}{subsection.5.1}
 \contentsline {subsection}{\numberline {5.2}Hopcroft-Karp}{8}{subsection.5.2}
-\contentsline {subsection}{\numberline {5.3}Min Cost Max Flow}{8}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.3}Min Cost Max Flow}{9}{subsection.5.3}
 \contentsline {subsection}{\numberline {5.4}Edmonds Karp}{9}{subsection.5.4}
