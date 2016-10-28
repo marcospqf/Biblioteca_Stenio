@@ -37,4 +37,5 @@ ll query(ll x, int j)
 }
 /* Testado em :
  * http://www.spoj.com/problems/APIO10A/ 
+ * http://www.spoj.com/problems/ACQUIRE/
 */
