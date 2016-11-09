@@ -1,3 +1,4 @@
+//RSQ COM LAZY PROPAGATION!
 class RSQ {
  private:
   vll A;

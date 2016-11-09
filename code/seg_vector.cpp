@@ -1,3 +1,6 @@
+//compilar em C++11, essa segment tree
+//computa quantos elementos distintos estao
+//presentes no array
 vi tr[5 * N];
 void build(int node, int b, int e)
 {

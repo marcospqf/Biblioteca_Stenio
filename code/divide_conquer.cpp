@@ -1,3 +1,4 @@
+//Um exemplo de Divide and conquer:
 int MOD = 1e9 + 7;
 const int N = 1010;
 int dp[N][N], cost[N][N], v[N], pref[N], n, m;

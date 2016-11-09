@@ -59,3 +59,4 @@ class ponte {
     for (int i = 0; i < e_articulacao.size(); i++)
       if (e_articulacao[i]) cout << " OIAAA A PONTE " << i << endl;
   }
+}

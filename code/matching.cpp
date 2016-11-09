@@ -1,3 +1,8 @@
+/* O(v^3)
+* Matching maximo de grafo bipartido de peso 1 nas arestas
+* supondo que o grafo bipartido seja enumerado de 0-n-1
+* chamamos maxMatch(n)
+*/
 class MaxMatch {
   vi graph[N];
   int match[N], us[N];
@@ -27,3 +32,4 @@ class MaxMatch {
     }
     return ret;
   }
+}

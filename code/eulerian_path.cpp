@@ -1,6 +1,5 @@
 multiset<int> graph[N];
 stack<int> path;
-
 // -> It suffices to call dfs1 just
 // one time leaving from node 0.
 // -> To calculate the path,

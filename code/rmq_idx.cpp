@@ -1,8 +1,8 @@
+//RMQ DE INDICE 
 class RMQ {
  private:
   vi A;
   vi M;
-
  public:
   RMQ(vi &v)
   {

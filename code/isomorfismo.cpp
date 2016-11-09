@@ -1,3 +1,4 @@
+//Segue no main um exemplo de utilizacao do isomorfismo de arvore!
 vvi children, subtreeLabels, tree, L;
 vi pred, map;
 int n;

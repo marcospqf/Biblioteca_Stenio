@@ -1,3 +1,6 @@
+//comutar RMQ , favor inicializar: dp[i][0]=v[0] 
+//sendo v[0] o vetor do rmq
+//chamar o build!
 int dp[200100][22];
 int n;
 int d[200100];

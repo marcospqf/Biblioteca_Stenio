@@ -1,3 +1,4 @@
+
 const int NPASSOS = 100000;
 double integral1(double altura)
 {

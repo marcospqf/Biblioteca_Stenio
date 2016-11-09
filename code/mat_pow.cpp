@@ -1,3 +1,6 @@
+//matmul multiplica m1 por m2
+//matpow exponencia a matrix m1 por p
+//mul vet multiplica a matrix m1 pelo vetor vet
 vvi matmul(vvi &m1, vvi &m2)
 {
   vvi ans;
