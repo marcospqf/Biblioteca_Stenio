@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import subprocess
 code_dir = "code"
-title = "Stanford ACM-ICPC Team Notebook"
+title = "Federal University of Minas Gerais ACM-ICPC Team Notebook"
 
 def get_sections():
     sections = []
@@ -10,6 +10,7 @@ def get_sections():
         for line in f:
             if '#' in line: line = line[:line.find('#')]
             line = line.strip()
+            
             if len(line) == 0: continue
             if line[0] == '[':
                 if section_name is not None:

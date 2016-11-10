@@ -1,5 +1,5 @@
 [Graph Algorithms]
-2sat.cpp	2-SAT
+2sat.cpp	2 SAT
 kosaraju.cpp	Kosaraju
 isomorfismo.cpp	Tree Isomorphism
 lca.cpp	LCA
@@ -8,18 +8,18 @@ eulerian_path.cpp	Eulerian Tour
 floydWarshall.cpp	Floyd Warshall
 
 [Strings]
-aho_corasick.cpp	Aho-Corasick
+aho_corasick.cpp	Aho Corasick
 kmp.cpp	KMP
 sufix_array.cpp	Suffix Array
 sa3.cpp	Suffix Array 2
 sufix_array_dilsunguinha.cpp	Suffix Array Disulguinha
-manacher.cpp	Manacher's Algorithm
+manacher.cpp	Manacher Algorithm
 split_string.cpp	Splitting String
 
 [Numerical Algorithms]
 fft_cara.cpp	Fast Fourier Transform
 fft_vazek.cpp	Fast Fourier Transform 2
-simpson.cpp	Simpson's Algorithm
+simpson.cpp	Simpson Algorithm
 mat_pow.cpp	Matrix Exponentiation
 
 [Mathematics]
@@ -35,11 +35,10 @@ erat.cpp	Sieve of Eratosthenes
 extended_euclid.cpp	Extended Euclidean Algorithm
 mod_inverse.cpp	Multiplicative Inverse
 mul_inv.cpp	Multiplicative Inverse 2
-linear_diofantine.cpp	Linear Diophantine Equation
 
 [Combinatorial Optimization]
 dinic.cpp	Dinic
-matching.cpp	Hopcroft-Karp - Bipartite Matching
+matching.cpp	Hopcroft-Karp Bipartite Matching
 maxbipartidematching.cpp	Max Bipartite Matching 2
 mincostmatching.cpp	Min Cost Matching
 mincost_maxflow.cpp	Min Cost Max Flow
@@ -49,11 +48,11 @@ edmonds_karp.cpp	Edmonds Karp
 [Dynamic Programming]
 convex_hull_trick.cpp	Convex Hull Trick
 convexhull_trick2.cpp	Convex Hull Trick 2
-divide_conquer.cpp	Divide-and-Conquer
-lis.cpp	LIS - Longest Increasing Subsequence
+divide_conquer.cpp	Divide and Conquer
+lis.cpp	Longest Increasing Subsequence
 
 [Geometry]
-convexhull.cpp	Convex Hull - Monotone Chain
+convexhull.cpp	Convex Hull Monotone Chain
 minimum_enclosing_circle.cpp	Minimum Enclosing Circle
 minimumspancircle.cpp	Minimum Enclosing Circle 2
 fastgeometry.cpp	Fast Geometry in Cpp
@@ -62,15 +61,18 @@ fastgeometry.cpp	Fast Geometry in Cpp
 dsu.cpp	Disjoint Set Union
 persistent.cpp	Persistent Segment Tree
 rmq_idx.cpp	RMQ of Indices
-rsq_lazy.cpp	RSQ with Lazy-Propagation
+rsq_lazy.cpp	RSQ with Lazy Propagation
 seg_vector.cpp	Segment Tree
 sparse.cpp	Sparse Table
 
 [Miscellaneous]
-Hashing.cpp	Hashing
+hashing.cpp	Hashing
 invertion_count.cpp	Invertion Count
 distinc_element.cpp	Distinct Elements in ranges
 ret_histograma.cpp	Maximum Rectangular Area in Histogram
-mulmod_longlong.cpp	Multiplying two LL mod n
+mulmod_longlong.cpp	Multiplying Two LL mod n
 josephus.cpp	Josephus Problem
 josephus2.cpp	Josephus Problem 2
+
+[UE]
+#UEANDO
