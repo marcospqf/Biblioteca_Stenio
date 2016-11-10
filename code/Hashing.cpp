@@ -1,3 +1,5 @@
+//certificar que gethash() foi chamado 
+//antes de getHash(i,j);
 struct Hashing {
   const string &s;
   int n, idx;

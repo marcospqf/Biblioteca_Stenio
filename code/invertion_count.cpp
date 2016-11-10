@@ -1,5 +1,7 @@
-l inversoes = 0;
-void merge_sort(int *v, int x)
+//conta o numero de inversoes de um array
+//x e o tamanho do array, v e o array que quero contar
+ll inversoes = 0;
+void merge_sort(vi &v, int x)
 {
   if (x == 1) return;
   int tam_esq = (x + 1) / 2, tam_dir = x / 2;

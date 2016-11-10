@@ -1,3 +1,5 @@
+//retorna quantos elementos coprimos 
+//a N e menores que n existem
 int phi(int n)
 {
   int result = n;

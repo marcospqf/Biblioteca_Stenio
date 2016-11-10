@@ -1,3 +1,6 @@
+//inverso multiplicativo de A % MOD
+//certifique de MOD estar definido antes bonito!
+//complexidade: O(log(a))
 ll mul_inv(ll a)
 {
   ll pin0 = MOD, pin = MOD, t, q;

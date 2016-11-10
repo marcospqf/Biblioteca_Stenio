@@ -1,3 +1,8 @@
+//grafo bipartido O(Esqrt(v))
+//Para recuperar a resposta, e so colocar um bool
+//de false na aresta de retorno e fazer uma bfs/dfs
+//andando pelos vertices de capacidade =0 e arestas 
+//que nao sao de retorno
 struct Edge {
   int v, rev;
   int cap;

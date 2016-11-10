@@ -1,3 +1,4 @@
+//N= tamanho da trie, M tamanho do alfabeto
 int to[N][M], Link[N], fim[N];
 int idx = 1;
 void add_str(string &s)

@@ -1,3 +1,6 @@
+//RODAR O COMPONENTE FORTEMENTE CONECTADO
+//RECUPERAR NA ORDEM DE descarga DA PILHA 
+//CONFORME O EXEMPLO A SEGUIR
 const int N = 510;
 vi graph[N], rev[N];
 int us[N];

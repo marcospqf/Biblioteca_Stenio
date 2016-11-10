@@ -1,3 +1,4 @@
+//esse crivo gera MAXN primos
 const int MAX = 1e6;
 int primes[MAX];
 void gen_primes()

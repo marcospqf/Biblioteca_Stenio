@@ -1,3 +1,6 @@
+//antes de usar as queries de lca, e etc..
+//certifique-se de chamar a dfs da arvore e
+//process()
 const int N = 100000;
 const int M = 22;
 int P[N][M];
