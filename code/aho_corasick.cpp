@@ -10,6 +10,7 @@ void add_str(string &s)
   }
   fim[v] = 1;
 }
+
 void process()
 {
   queue<int> fila;
@@ -34,6 +35,7 @@ void process()
     }
   }
 }
+
 int resolve(string &s)
 {
   int v = 0, r = 0;

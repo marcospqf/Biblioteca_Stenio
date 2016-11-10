@@ -12,7 +12,7 @@ aho_corasick.cpp	Aho Corasick
 kmp.cpp	KMP
 sufix_array.cpp	Suffix Array
 sa3.cpp	Suffix Array 2
-sufix_array_dilsunguinha.cpp	Suffix Array Disulguinha
+sufix_array_dilsunguinha.cpp	Suffix Array Dilsunguinha
 manacher.cpp	Manacher Algorithm
 split_string.cpp	Splitting String
 

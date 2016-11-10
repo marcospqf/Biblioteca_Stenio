@@ -34,37 +34,37 @@ int coco, maiorpot2[MAXN];
 
 void fft(dificil *v, int N, bool inv)
 {
-	if(N<=1) return;
-	dificil *vodd = v;
-	dificil *veven = v+N/2;
-	for(int i=0; i<N; i++) tmp[i] = v[i];
-	coco = 0;
-	for(int i=0; i<N; i+=2)
-	{
-		veven[coco] = tmp[i];
-		vodd[coco] = tmp[i+1];
-		coco++;
-	}
-	fft(&vodd[0], N/2, inv);
-	fft(&veven[0], N/2, inv);
-  
-	dificil w(1);
-	double angucomleite = 2.0*PI/(double)N;
-	if(inv) angucomleite = -angucomleite;
-  
-	dificil wn(cos(angucomleite),sin(angucomleite));
-	for(int i=0;i<N/2;i++)
-	{
-		tmp[i] = veven[i]+w*vodd[i];
-		tmp[i+N/2] = veven[i]-w*vodd[i];
-		w *= wn;
-		if(inv)
-		{
-			tmp[i] /= 2;
-			tmp[i+N/2] /= 2;
-		}
-	}
-	for(int i=0; i<N; i++) v[i] = tmp[i];
+  if(N<=1) return;
+  dificil *vodd = v;
+  dificil *veven = v+N/2;
+  for(int i=0; i<N; i++) tmp[i] = v[i];
+  coco = 0;
+  for(int i=0; i<N; i+=2)
+  {
+    veven[coco] = tmp[i];
+    vodd[coco] = tmp[i+1];
+    coco++;
+  }
+  fft(&vodd[0], N/2, inv);
+  fft(&veven[0], N/2, inv);
+
+  dificil w(1);
+  double angucomleite = 2.0*PI/(double)N;
+  if(inv) angucomleite = -angucomleite;
+
+  dificil wn(cos(angucomleite),sin(angucomleite));
+  for(int i=0;i<N/2;i++)
+  {
+    tmp[i] = veven[i]+w*vodd[i];
+    tmp[i+N/2] = veven[i]-w*vodd[i];
+    w *= wn;
+    if(inv)
+    {
+      tmp[i] /= 2;
+      tmp[i+N/2] /= 2;
+    }
+  }
+  for(int i=0; i<N; i++) v[i] = tmp[i];
 }
 
 void mul(vector<dificil> &a, vector<dificil> &b)

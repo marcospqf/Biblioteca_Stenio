@@ -5,25 +5,6 @@
   Based on problem I from here: http://codeforces.ru/gym/100133
 ************************************************************************/
 
-#include <iostream>
-#include <fstream>
-#include <cmath>
-#include <algorithm>
-#include <vector>
-#include <set>
-#include <map>
-#include <stack>
-#include <queue>
-#include <cstdlib>
-#include <cstdio>
-#include <string>
-#include <cstring>
-#include <cassert>
-#include <utility>
-#include <iomanip>
-
-using namespace std;
-
 const int MAXN = 205000;
 const int ALPH = 256;
 const int MAXLOG = 20;

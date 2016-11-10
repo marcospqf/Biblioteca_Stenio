@@ -219,9 +219,6 @@ INPUT code/mod_inverse.cpp
 INPUT code/mul_inv.cpp
 INPUT code/mul_inv.cpp
 INPUT code/mul_inv.cpp
-INPUT code/linear_diofantine.cpp
-INPUT code/linear_diofantine.cpp
-INPUT code/linear_diofantine.cpp
 INPUT code/dinic.cpp
 INPUT code/dinic.cpp
 INPUT code/dinic.cpp

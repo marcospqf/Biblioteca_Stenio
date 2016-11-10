@@ -1,11 +1,3 @@
-#include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
-#include <cstring>
- 
-using namespace std;
- 
 struct SuffixArray{
   const string& s;
   int n;

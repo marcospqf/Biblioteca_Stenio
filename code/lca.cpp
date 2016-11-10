@@ -7,6 +7,7 @@ int P[N][M];
 int big[N][M], low[N][M], level[N];
 vii graph[N];
 int n;
+
 void dfs(int u, int last, int l)
 {
   level[u] = l;
@@ -17,6 +18,7 @@ void dfs(int u, int last, int l)
       dfs(v.first, u, l + 1);
     }
 }
+
 void process()
 {
   for (int j = 1; j < M; j++)
@@ -26,6 +28,7 @@ void process()
       low[i][j] = min(low[i][j - 1], low[P[i][j - 1]][j - 1]);
     }
 }
+
 int lca(int u, int v)
 {
   if (level[u] < level[v]) swap(u, v);
@@ -37,6 +40,7 @@ int lca(int u, int v)
   }
   return P[u][0];
 }
+
 int maximum(int u, int v, int x)
 {
   int resp = 0;
@@ -52,6 +56,7 @@ int maximum(int u, int v, int x)
     }
   return resp;
 }
+
 int minimum(int u, int v, int x)
 {
   int resp = INF;

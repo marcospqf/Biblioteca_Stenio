@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  10 NOV 2016 11:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  10 NOV 2016 14:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -467,735 +467,24 @@ LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <5.5> not available
 (./code/kosaraju.cpp
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 12.
+(Font)              size <5> substituted on input line 13.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-]) (./code/isomorfismo.cpp
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-[2]
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-) (./code/lca.cpp) (./code/pontes_art.cpp) (./code/eulerian_path.cpp
+]) (./code/isomorfismo.cpp [2]) (./code/lca.cpp) (./code/pontes_art.cpp) (./cod
+e/eulerian_path.cpp
 [3]) (./code/floydWarshall.cpp) (./code/aho_corasick.cpp) (./code/kmp.cpp)
-(./code/sufix_array.cpp) (./code/sa3.cpp [4])
+(./code/sufix_array.cpp) [4] (./code/sa3.cpp)
 (./code/sufix_array_dilsunguinha.cpp [5]) (./code/manacher.cpp)
-(./code/split_string.cpp) (./code/fft_cara.cpp [6]) (./code/fft_vazek.cpp
-[7]) (./code/simpson.cpp) (./code/mat_pow.cpp) (./code/bignumber.cpp)
+(./code/split_string.cpp) (./code/fft_cara.cpp [6]) (./code/fft_vazek.cpp)
+(./code/simpson.cpp [7]) (./code/mat_pow.cpp) (./code/bignumber.cpp)
 (./code/bignumber2.cpp [8] [9] [10]) (./code/chinese_remainder.cpp)
 (./code/chinese_remainder2.cpp
 Missing character: There is no â in font pcrro7t!
 Missing character: There is no € in font pcrro7t!
 Missing character: There is no ™ in font pcrro7t!
-) [11] (./code/mat_pow.cpp) (./code/pascal.cpp
+) (./code/mat_pow.cpp [11]) (./code/pascal.cpp
 Missing character: There is no Â in font pcrr7t!
 Missing character: There is no   in font pcrr7t!
 Missing character: There is no Â in font pcrr7t!
@@ -1211,48 +500,37 @@ Missing character: There is no   in font pcrr7t!
 Missing character: There is no Â in font pcrr7t!
 Missing character: There is no   in font pcrr7t!
 )
-(./code/phi.cpp) (./code/pollard_rho.cpp [12]) (./code/erat.cpp)
+(./code/phi.cpp) (./code/pollard_rho.cpp) [12] (./code/erat.cpp)
 (./code/extended_euclid.cpp) (./code/mod_inverse.cpp) (./code/mul_inv.cpp)
-(./code/linear_diofantine.cpp) (./code/dinic.cpp [13]) (./code/matching.cpp)
-(./code/maxbipartidematching.cpp) (./code/mincostmatching.cpp [14])
-(./code/mincost_maxflow.cpp) (./code/mincostmaxflow.cpp [15])
-(./code/edmonds_karp.cpp) (./code/convex_hull_trick.cpp [16])
-(./code/convexhull_trick2.cpp) (./code/divide_conquer.cpp) [17] (./code/lis.cpp
+(./code/dinic.cpp) (./code/matching.cpp [13]) (./code/maxbipartidematching.cpp)
+(./code/mincostmatching.cpp [14]) (./code/mincost_maxflow.cpp)
+(./code/mincostmaxflow.cpp [15]) (./code/edmonds_karp.cpp)
+(./code/convex_hull_trick.cpp) (./code/convexhull_trick2.cpp [16])
+(./code/divide_conquer.cpp) (./code/lis.cpp
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no © in font pcrro7t!
-) (./code/convexhull.cpp) (./code/minimum_enclosing_circle.cpp [18])
-(./code/minimumspancircle.cpp) (./code/fastgeometry.cpp [19] [20])
-(./code/dsu.cpp) (./code/persistent.cpp [21]) (./code/rmq_idx.cpp)
-(./code/rsq_lazy.cpp) [22] (./code/seg_vector.cpp) (./code/sparse.cpp)
-(./code/hashing.cpp) (./code/invertion_count.cpp) (./code/distinc_element.cpp
-[23]) (./code/ret_histograma.cpp) (./code/mulmod_longlong.cpp
+) [17] (./code/convexhull.cpp)
+(./code/minimum_enclosing_circle.cpp) [18] (./code/minimumspancircle.cpp)
+(./code/fastgeometry.cpp [19] [20]) (./code/dsu.cpp) (./code/persistent.cpp)
+[21] (./code/rmq_idx.cpp) (./code/rsq_lazy.cpp) (./code/seg_vector.cpp)
+(./code/sparse.cpp [22]) (./code/hashing.cpp) (./code/invertion_count.cpp)
+(./code/distinc_element.cpp [23]) (./code/ret_histograma.cpp)
+(./code/mulmod_longlong.cpp
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no £ in font pcrro7t!
-)
-(./code/josephus.cpp) (./code/josephus2.cpp
+) (./code/josephus.cpp) (./code/josephus2.cpp
 Missing character: There is no â in font pcrro7t!
 Missing character: There is no € in font pcrro7t!
 Missing character: There is no ¦ in font pcrro7t!
-Missing character: There is no â in font pcrr7t!
-Missing character: There is no ˆ in font pcrr7t!
-Missing character: There is no ’ in font pcrr7t!
-Missing character: There is no â in font pcrr7t!
-Missing character: There is no ˆ in font pcrr7t!
-Missing character: There is no ’ in font pcrr7t!
-Missing character: There is no â in font pcrr7t!
-Missing character: There is no ˆ in font pcrr7t!
-Missing character: There is no ’ in font pcrr7t!
-Missing character: There is no â in font pcrr7t!
-Missing character: There is no ˆ in font pcrr7t!
-Missing character: There is no ’ in font pcrr7t!
-)) [24]
+))
+[24]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
  (./notebook.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `notebook.out' has not changed.
-(rerunfilecheck)             Checksum: 269F28D017C2C50CDEDE351997183649;4481.
+(rerunfilecheck)             Checksum: B056F5C0098D3BA5513CB95F3E434E56;4404.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1261,13 +539,13 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  ) 
 Here is how much of TeX's memory you used:
- 13340 strings out of 494888
- 194630 string characters out of 6179127
- 1091989 words of memory out of 5000000
- 12469 multiletter control sequences out of 15000+600000
+ 13114 strings out of 494888
+ 191647 string characters out of 6179127
+ 917309 words of memory out of 5000000
+ 12270 multiletter control sequences out of 15000+600000
  9851 words of font info for 35 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
- 40i,12n,68p,246b,1945s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,12n,68p,246b,1917s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/
@@ -1277,10 +555,10 @@ blic/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrb8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on notebook.pdf (24 pages, 311674 bytes).
+Output written on notebook.pdf (24 pages, 309513 bytes).
 PDF statistics:
- 5151 PDF objects out of 5155 (max. 8388607)
- 5065 compressed objects within 51 object streams
- 3921 named destinations out of 4296 (max. 500000)
- 545 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5119 PDF objects out of 5155 (max. 8388607)
+ 5033 compressed objects within 51 object streams
+ 3897 named destinations out of 4296 (max. 500000)
+ 537 words of extra memory for PDF output out of 10000 (max. 10000000)
 
