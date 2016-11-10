@@ -4,5 +4,5 @@ int mod_inverse(int a, int n)
   int x, y;
   int g = extended_euclid(a, n, x, y);
   if (g > 1) return -1;
-  return mod(x, n);
+  return (x+n)%n;
 }

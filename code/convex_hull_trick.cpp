@@ -1,4 +1,3 @@
-
 /* Esse convex hull trick e para achar a reta minima!
  * Para maximizar a reta dada , basta trocar o '>' para
  * para '<' na funcao query;
