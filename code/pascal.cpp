@@ -1,5 +1,5 @@
 //Fazer combinacao de N escolhe M 
-//por meio do triangulo de pascall :)
+//por meio do triangulo de pascal
 //Complexidade: O(m*n)
 unsigned long long comb[61][61];
 for (int i = 0; i < 61; i++) {
