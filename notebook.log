@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  10 NOV 2016 10:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  10 NOV 2016 11:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -467,28 +467,12 @@ LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <5.5> not available
 (./code/kosaraju.cpp
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 25.
+(Font)              size <5> substituted on input line 24.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]) (./code/isomorfismo.cpp
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
 Missing character: There is no Â in font pcrr7t!
 Missing character: There is no   in font pcrr7t!
 Missing character: There is no Â in font pcrr7t!
@@ -2864,54 +2848,71 @@ Missing character: There is no Â in font pcrr7t!
 Missing character: There is no   in font pcrr7t!
 Missing character: There is no Â in font pcrr7t!
 Missing character: There is no   in font pcrr7t!
+Missing character: There is no Â in font pcrr7t!
+Missing character: There is no   in font pcrr7t!
+Missing character: There is no Â in font pcrr7t!
+Missing character: There is no   in font pcrr7t!
+Missing character: There is no Â in font pcrr7t!
+Missing character: There is no   in font pcrr7t!
+Missing character: There is no Â in font pcrr7t!
+Missing character: There is no   in font pcrr7t!
+Missing character: There is no Â in font pcrr7t!
+Missing character: There is no   in font pcrr7t!
+Missing character: There is no Â in font pcrr7t!
+Missing character: There is no   in font pcrr7t!
+Missing character: There is no Â in font pcrr7t!
+Missing character: There is no   in font pcrr7t!
+Missing character: There is no Â in font pcrr7t!
+Missing character: There is no   in font pcrr7t!
 ) (./code/lca.cpp) (./code/pontes_art.cpp) (./code/eulerian_path.cpp)
 (./code/floydWarshall.cpp [3]) (./code/aho_corasick.cpp) (./code/kmp.cpp)
 (./code/sufix_array.cpp) (./code/sa3.cpp [4])
 (./code/sufix_array_dilsunguinha.cpp [5]) (./code/manacher.cpp)
-(./code/fft_cara.cpp [6]) (./code/fft_vazek.cpp) (./code/simpson.cpp) [7]
-(./code/mat_pow.cpp) (./code/bignumber.cpp) (./code/bignumber2.cpp [8] [9]
-[10]) (./code/chinese_remainder.cpp) (./code/chinese_remainder2.cpp
+(./code/split_string.cpp) (./code/fft_cara.cpp [6]) (./code/fft_vazek.cpp)
+[7] (./code/simpson.cpp) (./code/mat_pow.cpp) (./code/bignumber.cpp)
+(./code/bignumber2.cpp [8] [9] [10]) (./code/chinese_remainder.cpp)
+(./code/chinese_remainder2.cpp
 Missing character: There is no â in font pcrro7t!
 Missing character: There is no € in font pcrro7t!
 Missing character: There is no ™ in font pcrro7t!
+) (./code/mat_pow.cpp [11]) (./code/pascal.cpp
+Missing character: There is no Â in font pcrr7t!
+Missing character: There is no   in font pcrr7t!
+Missing character: There is no Â in font pcrr7t!
+Missing character: There is no   in font pcrr7t!
+Missing character: There is no Â in font pcrr7t!
+Missing character: There is no   in font pcrr7t!
+Missing character: There is no Â in font pcrr7t!
+Missing character: There is no   in font pcrr7t!
+Missing character: There is no Â in font pcrr7t!
+Missing character: There is no   in font pcrr7t!
+Missing character: There is no Â in font pcrr7t!
+Missing character: There is no   in font pcrr7t!
+Missing character: There is no Â in font pcrr7t!
+Missing character: There is no   in font pcrr7t!
 )
-(./code/mat_pow.cpp [11]) (./code/pascal.cpp
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-Missing character: There is no Â in font pcrr7t!
-Missing character: There is no   in font pcrr7t!
-) (./code/phi.cpp)
-(./code/pollard_rho.cpp) (./code/erat.cpp [12]) (./code/extended_euclid.cpp)
-(./code/mod_inverse.cpp) (./code/mul_inv.cpp) (./code/linear_diofantine.cpp)
-(./code/dinic.cpp) (./code/matching.cpp [13]) (./code/maxbipartidematching.cpp)
-(./code/mincostmatching.cpp [14]) (./code/mincost_maxflow.cpp)
-(./code/mincostmaxflow.cpp [15]) (./code/edmonds_karp.cpp)
-(./code/convex_hull_trick.cpp) (./code/convexhull_trick2.cpp [16])
-(./code/divide_conquer.cpp) (./code/lis.cpp
+(./code/phi.cpp) (./code/pollard_rho.cpp [12]) (./code/erat.cpp)
+(./code/extended_euclid.cpp) (./code/mod_inverse.cpp) (./code/mul_inv.cpp)
+(./code/linear_diofantine.cpp) (./code/dinic.cpp) [13] (./code/matching.cpp)
+(./code/maxbipartidematching.cpp) (./code/mincostmatching.cpp [14])
+(./code/mincost_maxflow.cpp) (./code/mincostmaxflow.cpp [15])
+(./code/edmonds_karp.cpp) (./code/convex_hull_trick.cpp) [16]
+(./code/convexhull_trick2.cpp) (./code/divide_conquer.cpp) (./code/lis.cpp
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no © in font pcrro7t!
- [17]) (./code/convexhull.cpp)
-(./code/minimum_enclosing_circle.cpp [18]) (./code/minimumspancircle.cpp)
-(./code/fastgeometry.cpp [19] [20]) (./code/dsu.cpp) (./code/persistent.cpp
-[21]) (./code/rmq_idx.cpp) (./code/rsq_lazy.cpp) (./code/seg_vector.cpp
-[22]) (./code/sparse.cpp)) [23]
+
+[17]) (./code/convexhull.cpp) (./code/minimum_enclosing_circle.cpp [18])
+(./code/minimumspancircle.cpp) (./code/fastgeometry.cpp [19] [20])
+(./code/dsu.cpp) (./code/persistent.cpp [21]) (./code/rmq_idx.cpp)
+(./code/rsq_lazy.cpp) (./code/seg_vector.cpp [22]) (./code/sparse.cpp))
+[23]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
  (./notebook.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `notebook.out' has not changed.
-(rerunfilecheck)             Checksum: 9817EDA5CF094CAC590B8F22BB23A9A3;3884.
+(rerunfilecheck)             Checksum: 7C657AF10EB3D53BADC7C8B4C9B7CDE4;3950.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2920,13 +2921,13 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  ) 
 Here is how much of TeX's memory you used:
- 13077 strings out of 494888
- 192506 string characters out of 6179127
- 905797 words of memory out of 5000000
- 12462 multiletter control sequences out of 15000+600000
+ 13112 strings out of 494888
+ 192989 string characters out of 6179127
+ 924860 words of memory out of 5000000
+ 12477 multiletter control sequences out of 15000+600000
  9851 words of font info for 35 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
- 40i,12n,68p,246b,1947s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,12n,68p,246b,1917s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/
@@ -2936,10 +2937,10 @@ blic/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrb8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on notebook.pdf (23 pages, 300564 bytes).
+Output written on notebook.pdf (23 pages, 300877 bytes).
 PDF statistics:
- 4830 PDF objects out of 5155 (max. 8388607)
- 4748 compressed objects within 48 object streams
- 3689 named destinations out of 4296 (max. 500000)
- 473 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4854 PDF objects out of 5155 (max. 8388607)
+ 4772 compressed objects within 48 object streams
+ 3706 named destinations out of 4296 (max. 500000)
+ 481 words of extra memory for PDF output out of 10000 (max. 10000000)
 

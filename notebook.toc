@@ -13,10 +13,11 @@
 \contentsline {subsection}{\numberline {2.4}Suffix Array 2}{4}{subsection.2.4}
 \contentsline {subsection}{\numberline {2.5}Suffix Array Disulguinha}{5}{subsection.2.5}
 \contentsline {subsection}{\numberline {2.6}Manacher\'s Algorithm}{6}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Splitting String}{6}{subsection.2.7}
 \contentsline {section}{\numberline {3}Numerical Algorithms}{6}{section.3}
 \contentsline {subsection}{\numberline {3.1}Fast Fourier Transform}{6}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Fast Fourier Transform 2}{7}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Simpson\'s Algorithm}{7}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.3}Simpson\'s Algorithm}{8}{subsection.3.3}
 \contentsline {subsection}{\numberline {3.4}Matrix Exponentiation}{8}{subsection.3.4}
 \contentsline {section}{\numberline {4}Mathematics}{8}{section.4}
 \contentsline {subsection}{\numberline {4.1}Big Number}{8}{subsection.4.1}
@@ -27,14 +28,14 @@
 \contentsline {subsection}{\numberline {4.6}Pascal Triangle}{12}{subsection.4.6}
 \contentsline {subsection}{\numberline {4.7}Euler\'s Totient Function}{12}{subsection.4.7}
 \contentsline {subsection}{\numberline {4.8}Pollard Rho}{12}{subsection.4.8}
-\contentsline {subsection}{\numberline {4.9}Sieve of Eratosthenes}{12}{subsection.4.9}
+\contentsline {subsection}{\numberline {4.9}Sieve of Eratosthenes}{13}{subsection.4.9}
 \contentsline {subsection}{\numberline {4.10}Extended Euclidean Algorithm}{13}{subsection.4.10}
 \contentsline {subsection}{\numberline {4.11}Multiplicative Inverse}{13}{subsection.4.11}
 \contentsline {subsection}{\numberline {4.12}Multiplicative Inverse 2}{13}{subsection.4.12}
 \contentsline {subsection}{\numberline {4.13}Linear Diophantine Equation}{13}{subsection.4.13}
 \contentsline {section}{\numberline {5}Combinatorial Optimization}{13}{section.5}
 \contentsline {subsection}{\numberline {5.1}Dinic}{13}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Hopcroft-Karp - Bipartite Matching}{13}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.2}Hopcroft-Karp - Bipartite Matching}{14}{subsection.5.2}
 \contentsline {subsection}{\numberline {5.3}Max Bipartite Matching 2}{14}{subsection.5.3}
 \contentsline {subsection}{\numberline {5.4}Min Cost Matching}{14}{subsection.5.4}
 \contentsline {subsection}{\numberline {5.5}Min Cost Max Flow}{15}{subsection.5.5}
@@ -42,7 +43,7 @@
 \contentsline {subsection}{\numberline {5.7}Edmonds Karp}{16}{subsection.5.7}
 \contentsline {section}{\numberline {6}Dynamic Programming}{16}{section.6}
 \contentsline {subsection}{\numberline {6.1}Convex Hull Trick}{16}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Convex Hull Trick 2}{16}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.2}Convex Hull Trick 2}{17}{subsection.6.2}
 \contentsline {subsection}{\numberline {6.3}Divide-and-Conquer}{17}{subsection.6.3}
 \contentsline {subsection}{\numberline {6.4}LIS - Longest Increasing Subsequence}{17}{subsection.6.4}
 \contentsline {section}{\numberline {7}Geometry}{18}{section.7}

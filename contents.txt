@@ -14,6 +14,7 @@ sufix_array.cpp	Suffix Array
 sa3.cpp	Suffix Array 2
 sufix_array_dilsunguinha.cpp	Suffix Array Disulguinha
 manacher.cpp	Manacher's Algorithm
+split_string.cpp	Splitting String
 
 [Numerical Algorithms]
 fft_cara.cpp	Fast Fourier Transform
@@ -70,3 +71,6 @@ Hashing.cpp	Hashing
 invertion_count.cpp	Invertion Count
 distinc_element.cpp	Distinct Elements in ranges
 ret_histograma.cpp	Maximum Rectangular Area in Histogram
+mulmod_longlong.cpp	Multiplying two LL mod n
+josephus.cpp	Josephus Problem
+josephus2.cpp	Josephus Problem 2

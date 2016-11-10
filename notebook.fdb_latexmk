@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1478782242 "notebook.tex" "notebook.pdf" "notebook" 1478782245
+["pdflatex"] 1478783328 "notebook.tex" "notebook.pdf" "notebook" 1478783331
   "/etc/texmf/web2c/texmf.cnf" 1472057485 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -125,16 +125,17 @@
   "code/seg_vector.cpp" 1478774410 867 5c91e13440931452e55043f7b011f2b1 ""
   "code/simpson.cpp" 1478774410 373 6a9efc0ec94c04e025c55168e4bb0d8d ""
   "code/sparse.cpp" 1478774410 497 7ff8d85d0c1f3195000124e2eaa66d03 ""
+  "code/split_string.cpp" 1478783058 382 626d0247444881b1c650803342527963 ""
   "code/sufix_array.cpp" 1477351097 1227 ae8f115a1b8598c1d8f5aea88c1f4593 ""
   "code/sufix_array_dilsunguinha.cpp" 1477500036 2222 93e91002f7a150264f33f6d78d3dab19 ""
-  "contents.tex" 1478782239 5616 19a63b7dc5a5766ea54ca7f07ee65d34 ""
-  "notebook.aux" 1478782244 11384 4e1eca4803376228238f360205095a82 ""
-  "notebook.out" 1478782244 3884 9817eda5cf094cac590b8f22bb23a9a3 ""
+  "contents.tex" 1478783325 5721 1c9daf54df446cfd920c958a7f1a6a68 ""
+  "notebook.aux" 1478783331 11585 bfa1418a971900e71e8581edd37b194c ""
+  "notebook.out" 1478783331 3950 7c657af10eb3d53badc7c8b4c9b7cde4 ""
   "notebook.tex" 1477388170 2023 20b0b8e193ca4f3f0fc916aa30c3e492 ""
-  "notebook.toc" 1478782244 4856 410b4c328fc47fb6129c6bca9e851675 ""
+  "notebook.toc" 1478783331 4937 24c95555c2e931bef1195b5b1e9c4fb1 ""
   (generated)
   "notebook.out"
-  "notebook.toc"
-  "notebook.log"
   "notebook.pdf"
+  "notebook.log"
   "notebook.aux"
+  "notebook.toc"
