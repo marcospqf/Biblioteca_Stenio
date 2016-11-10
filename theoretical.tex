@@ -7,6 +7,7 @@
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{lscape}
+\usepackage[T1]{fontenc}
 \usepackage{fancyhdr}
 \usepackage{rotating}
 \usepackage{ragged2e}
@@ -22,6 +23,8 @@
 \usepackage{array}
 \usepackage{xcolor,colortbl}
 \usepackage{tabu}
+\usepackage{url}
+\usepackage{textcomp}
 
 
 \setlength{\columnseprule}{0.4pt}
@@ -107,6 +110,30 @@ $\mathlarger{\sum_{k=0}^{n} \binom{r}{k}\binom{s}{n-k} = \binom{r+s}{n}}$ & \\
 $$(x + y)^{n} = \sum_{k=0}^{n} \binom{n}{k} x^{n-k} y^{k} = \sum_{k=0}^{n} \binom{n}{k} x^{k} y^{n-k} $$\\
 $$(1 + x)^{n} = \sum_{k=0}^{n} \binom{n}{k} x^{k}$$
 
+\subsection{Bits Manipulation}
+\textbf{x \& (x - 1) :} Turn off the rightmost 1-bit in a word, producing 0 if none (e.g., 01011000 $\rightarrow$ 01010000). This can be used to determine if an unsigned integer is a power of 2 or is 0: apply the formula followed by a 0-test on the result.\\[0.2cm]
+
+\textbf{x | (x + 1) :} Turn on the rightmost 0-bit in a word, producing all 1's if none (e.g., 10100111 $\rightarrow$ 10101111)\\[0.2cm]
+
+\textbf{x \& (x + 1) :} Turn off the trailing 1's in a word, producing \textbf{x} if none (e.g., 10100111 $\rightarrow$ 10100000)\\[0.2cm]
+
+\textbf{x | (x - 1) :} Turn on the trailing 0's in a word, producing x if none (e.g., 10101000 $\rightarrow$ 10101111)\\[0.2cm]
+
+\textbf{$\sim$x \& (x + 1) :} Create a word with a single 1-bit at the position of the rightmost 0-bit in \textbf{x}, producing 0 if none (e.g., 10100111 $\rightarrow$ 00001000)\\[0.2cm]
+
+\textbf{$\sim$x | (x - 1) :} Create a word with a single 0-bit at the position of the rightmost 1-bit in \textbf{x}, producing all 1's if none (e.g., 10101000 $\rightarrow$ 11110111)\\[0.2cm]
+
+\textbf{$\sim$x \& (x - 1)   or   $\sim$(x | -x) :} Create a word with 1's at the positions of the trailing 0's in \textbf{x}, and 0's elsewhere, producing 0 if none (e.g., 01011000 $\rightarrow$ 00000111)\\[0.2cm]
+
+\textbf{$\sim$x | (x + 1) :} Create a word with 0's at the positions of the trailing 1's in \textbf{x}, and 1's elsewhere, producing all 1's if none (e.g., 10100111 $\rightarrow$ 11111000)\\[0.2cm]
+
+\textbf{x \& (-x) :} Isolate the rightmost 1-bit, producing 0 if none (e.g., 01011000 $\rightarrow$ 00001000)\\[0.2cm]
+
+\textbf{x $\oplus$ (x - 1) :} Create a word with 1's at the positions of the rightmost 1-bit and the trailing 0's in \textbf{x}, producing all 1's if no 1-bit, and integer 1 if no trailing 0's (e.g., 01011000 $\rightarrow$ 00001111)\\[0.2cm]
+
+\textbf{x $\oplus$ (x + 1) :} Create a word with 1's at the positions of the rightmost 0-bit and the traling 1's in \textbf{x}, producing all 1's if no 0-bit, and the integer 1 if no trailing 1's (e.g., 01010111 $\rightarrow$ 00001111)\\[0.2cm]
+
+\textbf{(( x \& (-x) ) + x ) \& x :} Turn off the rightmost contiguous string of 1's (e.g., 01011100 $\rightarrow$ 01000000)\\[0.2cm]
 
 \subsection{Catalan Numbers}
 
@@ -241,7 +268,7 @@ $$x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}$$
 \item O numero de casas decimais corretas, em media, dobra a cada iteracao. ( Em caso de duvida, default=30 ).
 \end{itemize}
 
-\vspace{0.5cm}
+\vspace{0.3	cm}
 
 \textbf{Metodo dos Quadrados Minimos}\\
 Queremos estimar valores de determinada variável $y$. Para isso, consideramos os valores de outra variavel $x$ que acreditamos ter poder de explicação sobre $y$ conforme a fórmula:
@@ -300,8 +327,7 @@ m$\backslash$n & 0 & 1 & 2\\
 
 \hline
 4 & 13 = $2^{2^{2}} \, - \, 3$  & 65533 = 2**3 - 3 & $2^{65536} \, - \, 3$ = 2**4 -3\\ \hline
-
-\end{tabu}}
+\end{tabu}}\\[0.5cm]
 
 
 {\tabulinesep=1.2mm
