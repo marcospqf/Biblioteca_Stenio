@@ -38,17 +38,17 @@ vector<point> convexHull(vector<point> p)
 	sort(p.begin(), p.end(), comp);
 	for (unsigned int i = 0; i < p.size(); i++) {
 		while (l.size() > 1 && !isCcw(l[l.size() - 1], l[l.size() - 2], p[i]))
-			l.erase(l.begin() + (l.size() - 1));
+			l.pop_back();
 		l.push_back(p[i]);
 	}
 
 	for (int i = p.size() - 1; i >= 0; i--) {
 		while (u.size() > 1 && !isCcw(u[u.size() - 1], u[u.size() - 2], p[i]))
-			u.erase(u.begin() + (u.size() - 1));
+			u.pop_back();
 		u.push_back(p[i]);
 	}
-	u.erase(u.begin() + (u.size() - 1));
-	l.erase(l.begin() + (l.size() - 1));
+	u.pop_back();
+	l.pop_back();
 	l.insert(l.end(), u.begin(), u.end());
 	return l;
 }
