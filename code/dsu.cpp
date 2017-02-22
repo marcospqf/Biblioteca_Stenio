@@ -1,8 +1,8 @@
 const int N=500010;
-int p[N],rank[N];
+int p[N],Rank[N];
 void init()
 {
-  memset(rank,0,sizeof(rank));
+  memset(Rank,0,sizeof(Rank));
   for(int i=0;i<N;i++) p[i]=i;
 }
 int findset(int i)
@@ -18,11 +18,11 @@ void unionSet(int i, int j)
 {
   if (!same(i, j)) {
     int x = findset(i), y=findset(j);
-  if (rank[x] > rank[y])
+  if (Rank[x] > Rank[y])
       p[y] = x;
     else {
       p[x] = y;
-      if (rank[x] == rank[y]) rank[y]++;
+      if (Rank[x] == Rank[y]) Rank[y]++;
     }
   }
 }

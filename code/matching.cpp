@@ -8,7 +8,7 @@ class MaxMatch {
   int match[N], us[N];
 
  public:
-  MaxFlow(){};
+  MaxMatch(){};
   void addEdge(int u, int v) { graph[u].pb(v); }
   int dfs(int u)
   {
@@ -32,4 +32,4 @@ class MaxMatch {
     }
     return ret;
   }
-}
+};
