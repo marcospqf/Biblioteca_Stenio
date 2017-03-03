@@ -1,26 +1,28 @@
-int b[100000];
-int sizet, sizep;
-void kmpPreprocess(string &text, string &pattern)
+int p[N];
+int n;
+void process(vi &s)
 {
-  int i = 0, j = -1;
-  b[0] = -1;
-  while (i < sizep) {
-    while (j >= 0 and pattern[i] != pattern[j]) j = b[j];
-    i++, j++;
-    b[i] = j;
-  }
-}
-
-void kmpSearch(string &text, string &pattern)
-{
-  kmpPreprocess(text, pattern);
-  int i = 0, j = 0;
-  while (i < sizet) {
-    while (j >= 0 and text[i] != pattern[j]) j = b[j];
-    i++, j++;
-    if (j == sizep) {
-      cout << "Olha a substring do texto " << i - j << endl;
-      j = b[j];
+    int i = 0, j = -1;
+    p[0] = -1;
+    while (i < s.size()) {
+        while ( j >= 0 and s[i] != s[j] ) j = p[j];
+        i++, j++;
+        p[i] = j;
     }
-  }
+}
+// s=texto , t= padrao
+int match(string &s, string &t)
+{
+    int ret = 0;
+    process(t);
+    int i = 0, j = 0;
+    while (i < s.size()) {
+        while (j >= 0 and  (s[i] != t[j] ) ) j = p[j];
+        i++, j++;
+        if (j == t.size()) {
+            j = p[j];
+            ret++;
+        }
+    }
+    return ret;
 }

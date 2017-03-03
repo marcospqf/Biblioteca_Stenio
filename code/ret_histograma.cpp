@@ -16,14 +16,13 @@ ll solve(vi &h)
       int aux = pilha.top();
       pilha.pop();
       resp =
-          max(resp, (ll)h[aux] * ((pilha.empty()) ? i + 1 : i - pilha.top()));
+          max(resp, (ll)h[aux] * ((pilha.empty()) ? i : i - pilha.top()-1));
     }
   }
   while (!pilha.empty()) {
     int aux = pilha.top();
     pilha.pop();
-    resp =
-        max(resp, (ll)h[aux] * ((pilha.empty()) ? n + 1 : n - pilha.top()));
+    resp = max(resp, (ll)h[aux] * ((pilha.empty()) ? n : n - pilha.top()-1));
   }
   return resp;
 }

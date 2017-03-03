@@ -51,7 +51,7 @@ int main()
   for (int i = 0; i < n; i++) sc(v[i]);
   build(1, 0, n - 1);
   for (int i = 0; i < n; i++) {
-    if (mapa[v[i]] == -1) {
+    if (mapa[v[i]] == -1) { 
       root[i + 1] = update(root[i], 0, n - 1, i, 1);
       mapa[v[i]] = i;
     }
