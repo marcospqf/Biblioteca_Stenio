@@ -21,6 +21,7 @@ void dfs2(int u, int color)
 }
 int Sat(int n)
 {
+  memset(us, 0, sizeof(us));
   for (int i = 0; i < n; i++)
     if (!us[i]) dfs1(i);
   int color = 1;
