@@ -1,3 +1,8 @@
+[InContests]
+makefile.txt	Makefile
+vimrc.txt	Vimrc
+template.cpp	Template
+
 [Graph Algorithms]
 2sat.cpp	2 SAT
 kosaraju.cpp	Kosaraju

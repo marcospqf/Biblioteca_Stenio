@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  10 NOV 2016 14:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.4.7)  11 MAY 2017 19:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **notebook.tex
 (./notebook.tex
 LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 6 language(s) loaded.
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -443,6 +443,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout4 = `notebook.toc'.
 
  (./contents.tex
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 3.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) (./code/makefile.txt) (./code/vimrc.txt)
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
@@ -452,39 +459,33 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 3.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 3.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+(./code/template.cpp
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <5.5> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 1.
 ) (./code/2sat.cpp
 LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <5.5> not available
 (Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 1.
-LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <5.5> not available
-(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 4.
-)
-(./code/kosaraju.cpp
+
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 15.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-]) (./code/isomorfismo.cpp [2]) (./code/lca.cpp) (./code/pontes_art.cpp) (./cod
-e/eulerian_path.cpp
-[3]) (./code/floydWarshall.cpp) (./code/aho_corasick.cpp) (./code/kmp.cpp)
-(./code/sufix_array.cpp) [4] (./code/sa3.cpp)
-(./code/sufix_array_dilsunguinha.cpp [5]) (./code/manacher.cpp)
-(./code/split_string.cpp) (./code/fft_cara.cpp [6]) (./code/fft_vazek.cpp)
-(./code/simpson.cpp [7]) (./code/mat_pow.cpp) (./code/bignumber.cpp)
-(./code/bignumber2.cpp [8] [9] [10]) (./code/chinese_remainder.cpp)
+]) (./code/kosaraju.cpp)
+(./code/isomorfismo.cpp [2]) (./code/lca.cpp) (./code/pontes_art.cpp [3])
+(./code/eulerian_path.cpp) (./code/floydWarshall.cpp) (./code/aho_corasick.cpp)
+(./code/kmp.cpp) (./code/sufix_array.cpp [4]) (./code/sa3.cpp [5])
+(./code/sufix_array_dilsunguinha.cpp) (./code/manacher.cpp)
+(./code/split_string.cpp) [6] (./code/fft_cara.cpp) (./code/fft_vazek.cpp
+[7]) (./code/simpson.cpp) (./code/mat_pow.cpp) (./code/bignumber.cpp [8])
+(./code/bignumber2.cpp [9] [10]) (./code/chinese_remainder.cpp) [11]
 (./code/chinese_remainder2.cpp
 Missing character: There is no â in font pcrro7t!
 Missing character: There is no € in font pcrro7t!
 Missing character: There is no ™ in font pcrro7t!
-) (./code/mat_pow.cpp [11]) (./code/pascal.cpp
+) (./code/mat_pow.cpp) (./code/pascal.cpp
 Missing character: There is no Â in font pcrr7t!
 Missing character: There is no   in font pcrr7t!
 Missing character: There is no Â in font pcrr7t!
@@ -500,21 +501,21 @@ Missing character: There is no   in font pcrr7t!
 Missing character: There is no Â in font pcrr7t!
 Missing character: There is no   in font pcrr7t!
 )
-(./code/phi.cpp) (./code/pollard_rho.cpp) [12] (./code/erat.cpp)
+(./code/phi.cpp) (./code/pollard_rho.cpp [12]) (./code/erat.cpp)
 (./code/extended_euclid.cpp) (./code/mod_inverse.cpp) (./code/mul_inv.cpp)
-(./code/dinic.cpp) (./code/matching.cpp [13]) (./code/maxbipartidematching.cpp)
+(./code/dinic.cpp [13]) (./code/matching.cpp) (./code/maxbipartidematching.cpp)
 (./code/mincostmatching.cpp [14]) (./code/mincost_maxflow.cpp)
 (./code/mincostmaxflow.cpp [15]) (./code/edmonds_karp.cpp)
-(./code/convex_hull_trick.cpp) (./code/convexhull_trick2.cpp [16])
+(./code/convex_hull_trick.cpp [16]) (./code/convexhull_trick2.cpp) [17]
 (./code/divide_conquer.cpp) (./code/lis.cpp
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no © in font pcrro7t!
-) [17] (./code/convexhull.cpp)
-(./code/minimum_enclosing_circle.cpp) [18] (./code/minimumspancircle.cpp)
-(./code/fastgeometry.cpp [19] [20]) (./code/dsu.cpp) (./code/persistent.cpp)
-[21] (./code/rmq_idx.cpp) (./code/rsq_lazy.cpp) (./code/seg_vector.cpp)
-(./code/sparse.cpp [22]) (./code/hashing.cpp) (./code/invertion_count.cpp)
-(./code/distinc_element.cpp [23]) (./code/ret_histograma.cpp)
+) (./code/convexhull.cpp)
+(./code/minimum_enclosing_circle.cpp [18]) (./code/minimumspancircle.cpp)
+(./code/fastgeometry.cpp [19] [20]) (./code/dsu.cpp) (./code/persistent.cpp
+[21]) (./code/rmq_idx.cpp) (./code/rsq_lazy.cpp [22]) (./code/seg_vector.cpp)
+(./code/sparse.cpp) (./code/hashing.cpp) (./code/invertion_count.cpp [23])
+(./code/distinc_element.cpp) (./code/ret_histograma.cpp)
 (./code/mulmod_longlong.cpp
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no £ in font pcrro7t!
@@ -530,7 +531,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `notebook.out' has not changed.
-(rerunfilecheck)             Checksum: B056F5C0098D3BA5513CB95F3E434E56;4404.
+(rerunfilecheck)             Checksum: 024E78A1AAAA13B95ABEFA39BEFB657D;4636.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -539,13 +540,13 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  ) 
 Here is how much of TeX's memory you used:
- 13114 strings out of 494888
- 191647 string characters out of 6179127
- 917309 words of memory out of 5000000
- 12270 multiletter control sequences out of 15000+600000
+ 13174 strings out of 493029
+ 192533 string characters out of 6136235
+ 1195953 words of memory out of 5000000
+ 12526 multiletter control sequences out of 15000+600000
  9851 words of font info for 35 fonts, out of 8000000 for 9000
- 38 hyphenation exceptions out of 8191
- 40i,12n,68p,246b,1917s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 1141 hyphenation exceptions out of 8191
+ 40i,12n,68p,246b,1949s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/
@@ -555,10 +556,10 @@ blic/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrb8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on notebook.pdf (24 pages, 309513 bytes).
+Output written on notebook.pdf (24 pages, 313290 bytes).
 PDF statistics:
- 5119 PDF objects out of 5155 (max. 8388607)
- 5033 compressed objects within 51 object streams
- 3897 named destinations out of 4296 (max. 500000)
- 537 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5169 PDF objects out of 6186 (max. 8388607)
+ 5083 compressed objects within 51 object streams
+ 3925 named destinations out of 4296 (max. 500000)
+ 569 words of extra memory for PDF output out of 10000 (max. 10000000)
 
