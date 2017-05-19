@@ -1,0 +1,5 @@
+1) Implement a Point in Polygon in O(lg n) following the fast geometry lib model.
+   Problem: https://uva.onlinejudge.org/external/110/p11072.pdf
+
+2) Implement a good version of closest pair of points.
+   It also has to follow the stanford model.
