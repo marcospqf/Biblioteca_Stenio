@@ -45,6 +45,7 @@ mul_inv.cpp	Multiplicative Inverse 2
 dinic.cpp	Dinic
 matching.cpp	Hopcroft-Karp Bipartite Matching
 maxbipartidematching.cpp	Max Bipartite Matching 2
+blossom.cpp	Maximum Matching in General Graphs (Blossom)
 mincostmatching.cpp	Min Cost Matching
 mincost_maxflow.cpp	Min Cost Max Flow
 mincostmaxflow.cpp	Min Cost Max Flow 2

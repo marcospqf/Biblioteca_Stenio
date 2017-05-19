@@ -237,6 +237,9 @@ INPUT code/matching.cpp
 INPUT code/maxbipartidematching.cpp
 INPUT code/maxbipartidematching.cpp
 INPUT code/maxbipartidematching.cpp
+INPUT code/blossom.cpp
+INPUT code/blossom.cpp
+INPUT code/blossom.cpp
 INPUT code/mincostmatching.cpp
 INPUT code/mincostmatching.cpp
 INPUT code/mincostmatching.cpp
