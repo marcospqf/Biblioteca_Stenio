@@ -3,3 +3,13 @@
 
 2) Implement a good version of closest pair of points.
    It also has to follow the stanford model.
+
+3) Add a Linear Algebra section.
+   * Determinant
+   * Rank of a matrix
+   * Invert a Matrix
+   * Gaussian Elimination
+
+4) With a linear algebra section, becomes easy to add stuff like:
+   * Counting the numberof spanning trees in a graph.
+     Link: http://www.cbcb.umd.edu/confcour/Spring2010/CMSC858W-materials/counting_spanning_trees.pdf
