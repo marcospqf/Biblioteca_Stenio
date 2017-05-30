@@ -62,6 +62,7 @@ convexhull.cpp	Convex Hull Monotone Chain
 minimum_enclosing_circle.cpp	Minimum Enclosing Circle
 minimumspancircle.cpp	Minimum Enclosing Circle 2
 fastgeometry.cpp	Fast Geometry in Cpp
+pointinsidepolygon.cpp	Point Inside Polygon O(lg n)
 
 [Data Structures]
 dsu.cpp	Disjoint Set Union
@@ -79,6 +80,7 @@ ret_histograma.cpp	Maximum Rectangular Area in Histogram
 mulmod_longlong.cpp	Multiplying Two LL mod n
 josephus.cpp	Josephus Problem
 josephus2.cpp	Josephus Problem 2
+dynamic_mst.cpp	Dynamic MST
 
 [UE]
 #UEANDO

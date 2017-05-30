@@ -8,6 +8,7 @@ using namespace std;
 #define mp make_pair
 #define pb push_back
 #define BUFF ios::sync_with_stdio(false);
+#define LER freopen("x.in", "r", stdin);  freopen("x.out", "w", stdout);
 #define db(x) cerr << #x << " == " << x << endl
 typedef long long int ll;
 typedef long double ld;
