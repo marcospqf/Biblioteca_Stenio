@@ -1,3 +1,8 @@
+[InContests]
+makefile.txt	Makefile
+vimrc.txt	Vimrc
+template.cpp	Template
+
 [Graph Algorithms]
 2sat.cpp	2 SAT
 kosaraju.cpp	Kosaraju
@@ -40,6 +45,7 @@ mul_inv.cpp	Multiplicative Inverse 2
 dinic.cpp	Dinic
 matching.cpp	Hopcroft-Karp Bipartite Matching
 maxbipartidematching.cpp	Max Bipartite Matching 2
+blossom.cpp	Maximum Matching in General Graphs (Blossom)
 mincostmatching.cpp	Min Cost Matching
 mincost_maxflow.cpp	Min Cost Max Flow
 mincostmaxflow.cpp	Min Cost Max Flow 2
@@ -56,6 +62,7 @@ convexhull.cpp	Convex Hull Monotone Chain
 minimum_enclosing_circle.cpp	Minimum Enclosing Circle
 minimumspancircle.cpp	Minimum Enclosing Circle 2
 fastgeometry.cpp	Fast Geometry in Cpp
+pointinsidepolygon.cpp	Point Inside Polygon O(lg n)
 
 [Data Structures]
 dsu.cpp	Disjoint Set Union
@@ -73,6 +80,7 @@ ret_histograma.cpp	Maximum Rectangular Area in Histogram
 mulmod_longlong.cpp	Multiplying Two LL mod n
 josephus.cpp	Josephus Problem
 josephus2.cpp	Josephus Problem 2
+dynamic_mst.cpp	Dynamic MST
 
 [UE]
 #UEANDO

@@ -1,0 +1,2 @@
+set ts=2 si ai sw=2 number mouse=a
+syntax on
