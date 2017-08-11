@@ -40,32 +40,35 @@
 \contentsline {subsection}{\numberline {6.1}Dinic}{13}{subsection.6.1}
 \contentsline {subsection}{\numberline {6.2}Hopcroft-Karp Bipartite Matching}{14}{subsection.6.2}
 \contentsline {subsection}{\numberline {6.3}Max Bipartite Matching 2}{14}{subsection.6.3}
-\contentsline {subsection}{\numberline {6.4}Min Cost Matching}{14}{subsection.6.4}
-\contentsline {subsection}{\numberline {6.5}Min Cost Max Flow}{15}{subsection.6.5}
-\contentsline {subsection}{\numberline {6.6}Min Cost Max Flow 2}{15}{subsection.6.6}
-\contentsline {subsection}{\numberline {6.7}Edmonds Karp}{16}{subsection.6.7}
-\contentsline {section}{\numberline {7}Dynamic Programming}{16}{section.7}
-\contentsline {subsection}{\numberline {7.1}Convex Hull Trick}{16}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}Convex Hull Trick 2}{17}{subsection.7.2}
-\contentsline {subsection}{\numberline {7.3}Divide and Conquer}{18}{subsection.7.3}
-\contentsline {subsection}{\numberline {7.4}Longest Increasing Subsequence}{18}{subsection.7.4}
-\contentsline {section}{\numberline {8}Geometry}{18}{section.8}
-\contentsline {subsection}{\numberline {8.1}Convex Hull Monotone Chain}{18}{subsection.8.1}
-\contentsline {subsection}{\numberline {8.2}Minimum Enclosing Circle}{18}{subsection.8.2}
-\contentsline {subsection}{\numberline {8.3}Minimum Enclosing Circle 2}{19}{subsection.8.3}
-\contentsline {subsection}{\numberline {8.4}Fast Geometry in Cpp}{20}{subsection.8.4}
-\contentsline {section}{\numberline {9}Data Structures}{21}{section.9}
-\contentsline {subsection}{\numberline {9.1}Disjoint Set Union}{21}{subsection.9.1}
-\contentsline {subsection}{\numberline {9.2}Persistent Segment Tree}{21}{subsection.9.2}
-\contentsline {subsection}{\numberline {9.3}RMQ of Indices}{22}{subsection.9.3}
-\contentsline {subsection}{\numberline {9.4}RSQ with Lazy Propagation}{22}{subsection.9.4}
-\contentsline {subsection}{\numberline {9.5}Segment Tree}{23}{subsection.9.5}
-\contentsline {subsection}{\numberline {9.6}Sparse Table}{23}{subsection.9.6}
-\contentsline {section}{\numberline {10}Miscellaneous}{23}{section.10}
-\contentsline {subsection}{\numberline {10.1}Hashing}{23}{subsection.10.1}
-\contentsline {subsection}{\numberline {10.2}Invertion Count}{23}{subsection.10.2}
-\contentsline {subsection}{\numberline {10.3}Distinct Elements in ranges}{24}{subsection.10.3}
-\contentsline {subsection}{\numberline {10.4}Maximum Rectangular Area in Histogram}{24}{subsection.10.4}
-\contentsline {subsection}{\numberline {10.5}Multiplying Two LL mod n}{24}{subsection.10.5}
-\contentsline {subsection}{\numberline {10.6}Josephus Problem}{24}{subsection.10.6}
-\contentsline {subsection}{\numberline {10.7}Josephus Problem 2}{24}{subsection.10.7}
+\contentsline {subsection}{\numberline {6.4}Maximum Matching in General Graphs (Blossom)}{14}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Min Cost Matching}{15}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}Min Cost Max Flow}{16}{subsection.6.6}
+\contentsline {subsection}{\numberline {6.7}Min Cost Max Flow 2}{16}{subsection.6.7}
+\contentsline {subsection}{\numberline {6.8}Edmonds Karp}{17}{subsection.6.8}
+\contentsline {section}{\numberline {7}Dynamic Programming}{17}{section.7}
+\contentsline {subsection}{\numberline {7.1}Convex Hull Trick}{17}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Convex Hull Trick 2}{18}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Divide and Conquer}{19}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Longest Increasing Subsequence}{19}{subsection.7.4}
+\contentsline {section}{\numberline {8}Geometry}{19}{section.8}
+\contentsline {subsection}{\numberline {8.1}Convex Hull Monotone Chain}{19}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Minimum Enclosing Circle}{19}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Minimum Enclosing Circle 2}{20}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}Fast Geometry in Cpp}{21}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.5}Point Inside Polygon O(lg n)}{22}{subsection.8.5}
+\contentsline {section}{\numberline {9}Data Structures}{23}{section.9}
+\contentsline {subsection}{\numberline {9.1}Disjoint Set Union}{23}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Persistent Segment Tree}{23}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}RMQ of Indices}{24}{subsection.9.3}
+\contentsline {subsection}{\numberline {9.4}RSQ with Lazy Propagation}{24}{subsection.9.4}
+\contentsline {subsection}{\numberline {9.5}Segment Tree}{24}{subsection.9.5}
+\contentsline {subsection}{\numberline {9.6}Sparse Table}{25}{subsection.9.6}
+\contentsline {section}{\numberline {10}Miscellaneous}{25}{section.10}
+\contentsline {subsection}{\numberline {10.1}Hashing}{25}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}Invertion Count}{25}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}Distinct Elements in ranges}{25}{subsection.10.3}
+\contentsline {subsection}{\numberline {10.4}Maximum Rectangular Area in Histogram}{26}{subsection.10.4}
+\contentsline {subsection}{\numberline {10.5}Multiplying Two LL mod n}{26}{subsection.10.5}
+\contentsline {subsection}{\numberline {10.6}Josephus Problem}{26}{subsection.10.6}
+\contentsline {subsection}{\numberline {10.7}Josephus Problem 2}{26}{subsection.10.7}
+\contentsline {subsection}{\numberline {10.8}Dynamic MST}{26}{subsection.10.8}
