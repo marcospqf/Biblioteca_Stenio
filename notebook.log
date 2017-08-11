@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.4.7)  26 MAY 2017 10:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.4.7)  10 AUG 2017 21:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -480,7 +480,7 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
 (./code/sufix_array_dilsunguinha.cpp) (./code/manacher.cpp)
 (./code/split_string.cpp [6]) (./code/fft_cara.cpp) (./code/fft_vazek.cpp
 [7]) (./code/simpson.cpp) (./code/mat_pow.cpp) (./code/bignumber.cpp [8])
-(./code/bignumber2.cpp [9] [10]) (./code/chinese_remainder.cpp) [11]
+(./code/bignumber2.cpp [9] [10]) (./code/chinese_remainder.cpp [11])
 (./code/chinese_remainder2.cpp
 Missing character: There is no â in font pcrro7t!
 Missing character: There is no € in font pcrro7t!
@@ -505,17 +505,18 @@ Missing character: There is no   in font pcrr7t!
 (./code/extended_euclid.cpp) (./code/mod_inverse.cpp) (./code/mul_inv.cpp)
 (./code/dinic.cpp [13]) (./code/matching.cpp) (./code/maxbipartidematching.cpp)
 (./code/blossom.cpp [14]) (./code/mincostmatching.cpp [15])
-(./code/mincost_maxflow.cpp) (./code/mincostmaxflow.cpp [16])
-(./code/edmonds_karp.cpp) (./code/convex_hull_trick.cpp [17])
-(./code/convexhull_trick2.cpp) [18] (./code/divide_conquer.cpp) (./code/lis.cpp
+(./code/mincostmaxflow.cpp) [16] (./code/edmonds_karp.cpp)
+(./code/convex_hull_trick.cpp) (./code/convexhull_trick2.cpp [17])
+(./code/divide_conquer.cpp) (./code/lis.cpp
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no © in font pcrro7t!
-) (./code/convexhull.cpp) (./code/minimum_enclosing_circle.cpp [19])
-(./code/minimumspancircle.cpp) (./code/fastgeometry.cpp [20] [21])
-(./code/pointinsidepolygon.cpp [22]) (./code/dsu.cpp) (./code/persistent.cpp)
-(./code/rmq_idx.cpp [23]) (./code/rsq_lazy.cpp) (./code/seg_vector.cpp)
-(./code/sparse.cpp [24]) (./code/hashing.cpp) (./code/invertion_count.cpp)
-(./code/distinc_element.cpp [25]) (./code/ret_histograma.cpp)
+) (./code/convexhull.cpp [18])
+(./code/minimum_enclosing_circle.cpp) (./code/minimumspancircle.cpp [19])
+(./code/fastgeometry.cpp [20] [21]) (./code/pointinsidepolygon.cpp)
+(./code/dsu.cpp [22]) (./code/persistent.cpp) (./code/rmq_idx.cpp)
+(./code/rsq_lazy.cpp [23]) (./code/seg_vector.cpp) (./code/sparse.cpp)
+(./code/hashing.cpp) [24] (./code/invertion_count.cpp)
+(./code/distinc_element.cpp) (./code/ret_histograma.cpp)
 (./code/mulmod_longlong.cpp
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no £ in font pcrro7t!
@@ -523,15 +524,19 @@ Missing character: There is no £ in font pcrro7t!
 Missing character: There is no â in font pcrro7t!
 Missing character: There is no € in font pcrro7t!
 Missing character: There is no ¦ in font pcrro7t!
-)
-(./code/dynamic_mst.cpp [26])) [27]
+
+[25]) (./code/dynamic_mst.cpp) (./code/ordered_static_set.cpp [26]
+Missing character: There is no Ã in font pcrro7t!
+Missing character: There is no © in font pcrro7t!
+)) [27]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
- (./notebook.aux)
+
+(./notebook.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `notebook.out' has not changed.
-(rerunfilecheck)             Checksum: DAF2A044EE88F715E4616012C6CDC0CD;4875.
+(rerunfilecheck)             Checksum: 7DA40ED52493346FA828E72CF83BABC0;4889.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -540,10 +545,10 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  ) 
 Here is how much of TeX's memory you used:
- 13677 strings out of 493029
- 200230 string characters out of 6136235
- 942180 words of memory out of 5000000
- 12609 multiletter control sequences out of 15000+600000
+ 13733 strings out of 493029
+ 201269 string characters out of 6136235
+ 927195 words of memory out of 5000000
+ 12613 multiletter control sequences out of 15000+600000
  9851 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,12n,68p,246b,1917s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -556,10 +561,10 @@ blic/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrb8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on notebook.pdf (27 pages, 331872 bytes).
+Output written on notebook.pdf (27 pages, 335001 bytes).
 PDF statistics:
- 5688 PDF objects out of 6186 (max. 8388607)
- 5594 compressed objects within 56 object streams
- 4336 named destinations out of 5155 (max. 500000)
+ 5751 PDF objects out of 6186 (max. 8388607)
+ 5656 compressed objects within 57 object streams
+ 4388 named destinations out of 5155 (max. 500000)
  593 words of extra memory for PDF output out of 10000 (max. 10000000)
 

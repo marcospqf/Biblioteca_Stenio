@@ -1,4 +1,4 @@
-PWD /home/thiagovas/Biblioteca_Stenio
+PWD /home/thiagovas/Documents/Biblioteca_Stenio
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
@@ -243,9 +243,6 @@ INPUT code/blossom.cpp
 INPUT code/mincostmatching.cpp
 INPUT code/mincostmatching.cpp
 INPUT code/mincostmatching.cpp
-INPUT code/mincost_maxflow.cpp
-INPUT code/mincost_maxflow.cpp
-INPUT code/mincost_maxflow.cpp
 INPUT code/mincostmaxflow.cpp
 INPUT code/mincostmaxflow.cpp
 INPUT code/mincostmaxflow.cpp
@@ -321,6 +318,9 @@ INPUT code/josephus2.cpp
 INPUT code/dynamic_mst.cpp
 INPUT code/dynamic_mst.cpp
 INPUT code/dynamic_mst.cpp
+INPUT code/ordered_static_set.cpp
+INPUT code/ordered_static_set.cpp
+INPUT code/ordered_static_set.cpp
 INPUT notebook.aux
 INPUT ./notebook.out
 INPUT ./notebook.out
