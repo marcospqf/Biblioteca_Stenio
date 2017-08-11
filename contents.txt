@@ -81,6 +81,7 @@ mulmod_longlong.cpp	Multiplying Two LL mod n
 josephus.cpp	Josephus Problem
 josephus2.cpp	Josephus Problem 2
 dynamic_mst.cpp	Dynamic MST
+ordered_static_set.cpp	Ordered Static Set (Examples)
 
 [UE]
 #UEANDO
