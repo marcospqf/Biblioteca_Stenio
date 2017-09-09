@@ -66,10 +66,10 @@ pointinsidepolygon.cpp	Point Inside Polygon O(lg n)
 [Data Structures]
 dsu.cpp	Disjoint Set Union
 persistent.cpp	Persistent Segment Tree
-rmq_idx.cpp	RMQ of Indices
-rsq_lazy.cpp	RSQ with Lazy Propagation
 seg_vector.cpp	Segment Tree
 sparse.cpp	Sparse Table
+implicit_cartesian_tree.cpp	Cartesian Tree
+implicit_cartesian_tree2.cpp	Cartesian Tree 2
 
 [Miscellaneous]
 hashing.cpp	Hashing

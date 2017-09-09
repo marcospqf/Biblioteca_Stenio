@@ -58,17 +58,17 @@
 \contentsline {section}{\numberline {9}Data Structures}{22}{section.9}
 \contentsline {subsection}{\numberline {9.1}Disjoint Set Union}{22}{subsection.9.1}
 \contentsline {subsection}{\numberline {9.2}Persistent Segment Tree}{23}{subsection.9.2}
-\contentsline {subsection}{\numberline {9.3}RMQ of Indices}{23}{subsection.9.3}
-\contentsline {subsection}{\numberline {9.4}RSQ with Lazy Propagation}{23}{subsection.9.4}
-\contentsline {subsection}{\numberline {9.5}Segment Tree}{24}{subsection.9.5}
-\contentsline {subsection}{\numberline {9.6}Sparse Table}{24}{subsection.9.6}
-\contentsline {section}{\numberline {10}Miscellaneous}{24}{section.10}
-\contentsline {subsection}{\numberline {10.1}Hashing}{24}{subsection.10.1}
-\contentsline {subsection}{\numberline {10.2}Invertion Count}{25}{subsection.10.2}
-\contentsline {subsection}{\numberline {10.3}Distinct Elements in ranges}{25}{subsection.10.3}
-\contentsline {subsection}{\numberline {10.4}Maximum Rectangular Area in Histogram}{25}{subsection.10.4}
-\contentsline {subsection}{\numberline {10.5}Multiplying Two LL mod n}{25}{subsection.10.5}
-\contentsline {subsection}{\numberline {10.6}Josephus Problem}{25}{subsection.10.6}
-\contentsline {subsection}{\numberline {10.7}Josephus Problem 2}{26}{subsection.10.7}
-\contentsline {subsection}{\numberline {10.8}Dynamic MST}{26}{subsection.10.8}
-\contentsline {subsection}{\numberline {10.9}Ordered Static Set (Examples)}{26}{subsection.10.9}
+\contentsline {subsection}{\numberline {9.3}Segment Tree}{23}{subsection.9.3}
+\contentsline {subsection}{\numberline {9.4}Sparse Table}{23}{subsection.9.4}
+\contentsline {subsection}{\numberline {9.5}Cartesian Tree}{23}{subsection.9.5}
+\contentsline {subsection}{\numberline {9.6}Cartesian Tree 2}{24}{subsection.9.6}
+\contentsline {section}{\numberline {10}Miscellaneous}{25}{section.10}
+\contentsline {subsection}{\numberline {10.1}Hashing}{25}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}Invertion Count}{26}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}Distinct Elements in ranges}{26}{subsection.10.3}
+\contentsline {subsection}{\numberline {10.4}Maximum Rectangular Area in Histogram}{26}{subsection.10.4}
+\contentsline {subsection}{\numberline {10.5}Multiplying Two LL mod n}{26}{subsection.10.5}
+\contentsline {subsection}{\numberline {10.6}Josephus Problem}{26}{subsection.10.6}
+\contentsline {subsection}{\numberline {10.7}Josephus Problem 2}{27}{subsection.10.7}
+\contentsline {subsection}{\numberline {10.8}Dynamic MST}{27}{subsection.10.8}
+\contentsline {subsection}{\numberline {10.9}Ordered Static Set (Examples)}{27}{subsection.10.9}

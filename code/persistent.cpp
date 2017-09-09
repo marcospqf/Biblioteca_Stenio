@@ -3,7 +3,7 @@
 const int N = 30010;
 int tr[100 * N], L[100 * N], R[100 * N], root[100 * N];
 int v[N], mapa[100 * N];
-int cont = 0;
+int cont = 1;
 void build(int node, int b, int e)
 {
   if (b == e) {
