@@ -1,5 +1,12 @@
-//returns g = gcd(a, b);
-//finds x,y such that d= ax+by;
+/* parametros finais:
+a -> gcd(a, b)
+x -> "inverso aritmetico" de a mod b
+y -> "inverso aritmetico" de b mod a
+resolve d = ax + by
+para outras solucoes:
+x + t * b / d
+y - t * a / d */
+
 int extended_euclid(int a, int b, int &x, int &y)
 {
   int xx = y = 0;
