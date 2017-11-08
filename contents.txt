@@ -6,20 +6,20 @@ template.cpp	Template
 [Graph Algorithms]
 2sat.cpp	2 SAT
 kosaraju.cpp	Kosaraju
-isomorfismo.cpp	Tree Isomorphism
 lca.cpp	LCA
 pontes_art.cpp	Bridges and Articulation Points
 eulerian_path.cpp	Eulerian Tour
 floydWarshall.cpp	Floyd Warshall
+closestpairofpoints.cpp	Closest Pair of Points
 
 [Strings]
 aho_corasick.cpp	Aho Corasick
 kmp.cpp	KMP
+hashing.cpp	Hashing
 sufix_array.cpp	Suffix Array
 sa3.cpp	Suffix Array 2
-sufix_array_dilsunguinha.cpp	Suffix Array Dilsunguinha
+sufix_array_dilsunguinha.cpp	Suffix Array Dilson
 manacher.cpp	Manacher Algorithm
-split_string.cpp	Splitting String
 
 [Numerical Algorithms]
 fft_cara.cpp	Fast Fourier Transform
@@ -28,18 +28,20 @@ simpson.cpp	Simpson Algorithm
 mat_pow.cpp	Matrix Exponentiation
 
 [Mathematics]
-bignumber.cpp	Big Number
-bignumber2.cpp	Big Number 2
 chinese_remainder.cpp	Chinese Remainder
 chinese_remainder2.cpp	Chinese Remainder 2
 mat_pow.cpp	Matrix Exponentiation
 pascal.cpp	Pascal Triangle
 phi.cpp	Euler's Totient Function
 pollard_rho.cpp	Pollard Rho
-erat.cpp	Sieve of Eratosthenes
 extended_euclid.cpp	Extended Euclidean Algorithm
 mod_inverse.cpp	Multiplicative Inverse
 mul_inv.cpp	Multiplicative Inverse 2
+gaussian.cpp	Gaussian Elimination
+gaussian_mod.cpp	Gaussian Elimination with MOD
+gaussian_xor.cpp	Gaussian Elimination with XOR
+integer_determinant.cpp	Determinant
+
 
 [Combinatorial Optimization]
 dinic.cpp	Dinic
@@ -48,18 +50,17 @@ maxbipartidematching.cpp	Max Bipartite Matching 2
 blossom.cpp	Maximum Matching in General Graphs (Blossom)
 mincostmatching.cpp	Min Cost Matching
 mincostmaxflow.cpp	Min Cost Max Flow
-edmonds_karp.cpp	Edmonds Karp
+mincostmaxflowdilson.cpp	Min Cost Max Flow Dilson
+max_clique.cpp	Find Maximum Clique in Graphs 
 
 [Dynamic Programming]
 convex_hull_trick.cpp	Convex Hull Trick
-convexhull_trick2.cpp	Convex Hull Trick 2
-divide_conquer.cpp	Divide and Conquer
-lis.cpp	Longest Increasing Subsequence
+convexhull_trick2.cpp	Dinamic Convex Hull Trick
+divide_conquer.cpp	Divide and Conquer Example
 
 [Geometry]
 convexhull.cpp	Convex Hull Monotone Chain
-minimum_enclosing_circle.cpp	Minimum Enclosing Circle
-minimumspancircle.cpp	Minimum Enclosing Circle 2
+
 fastgeometry.cpp	Fast Geometry in Cpp
 pointinsidepolygon.cpp	Point Inside Polygon O(lg n)
 
@@ -72,7 +73,6 @@ implicit_cartesian_tree.cpp	Cartesian Tree
 implicit_cartesian_tree2.cpp	Cartesian Tree 2
 
 [Miscellaneous]
-hashing.cpp	Hashing
 invertion_count.cpp	Invertion Count
 distinc_element.cpp	Distinct Elements in ranges
 ret_histograma.cpp	Maximum Rectangular Area in Histogram

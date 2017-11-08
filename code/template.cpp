@@ -13,5 +13,6 @@ typedef long long int ll;
 typedef long double ld;
 typedef pair<int, int> ii;
 typedef vector<int> vi;
+typedef vector<ii> vii;
 const int INF = 0x3f3f3f3f;
 const ld pi = acos(-1);

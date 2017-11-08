@@ -33,10 +33,10 @@ const LL INF = numeric_limits<LL>::max() / 4;
 
 struct MinCostMaxFlow {
   int N;
-  VVL cap, flow, cost;
-  VI found;
-  VL dist, pi, width;
-  VPII dad;
+  vector< vector<ll> >  cap, flow, cost;
+  vector<int> found;
+  vector<ll> dist, pi, width;
+  vector< pair<int, int> > dad;
 
   MinCostMaxFlow(int N): N(N), cap(N, VL(N)), flow(N, VL(N)), cost(N, VL(N)),
       found(N), dist(N), pi(N), width(N), dad(N){}
@@ -47,9 +47,9 @@ struct MinCostMaxFlow {
     this->cost[from][to] = cost;
   }
 
-  void Relax(int s, int k, LL cap, LL cost, int dir)
+  void Relax(int s, int k, ll cap, ll cost, int dir)
   {
-    LL val = dist[s] + pi[s] - pi[k] + cost;
+    ll val = dist[s] + pi[s] - pi[k] + cost;
     if (cap && val < dist[k]) {
       dist[k] = val;
       dad[k] = make_pair(s, dir);
