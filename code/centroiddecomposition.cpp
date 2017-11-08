@@ -1,32 +1,13 @@
-#include<bits/stdc++.h>
-using namespace std;
-#define sc(a) scanf("%d", &a)
-#define sc2(a,b) scanf("%d%d", &a, &b)
-#define sc3(a,b,c) scanf("%d%d%d", &a, &b, &c)
-#define pri(x) printf("%d\n", x)
-#define mp make_pair
-#define pb push_back
-#define BUFF ios::sync_with_stdio(false);
-#define imprime(v) for(int X=0;X<v.size();X++) printf("%d ", v[X]); printf("\n");
-#define endl "\n"
-const int INF= 0x3f3f3f3f;
-const long double pi= acos(-1);
-typedef long long int ll;
-typedef long double ld;
-typedef pair<int,int> ii;
-typedef vector<int> vi;
-typedef vector< vector< int > > vvi;
-const int MOD=1e9+7;
-const ll LINF=0x3f3f3f3f3f3f3f3f;
-const int MAXN = 50005;
+/*
+	MUST CALL DECOMP(1,-1) FOR A 1-BASED GRAPH
+*/
+
 vi g[MAXN];
 int forb[MAXN];
 int sz[MAXN];
 int pai[MAXN];
 int n, m;
 unordered_map<int, int> dist[MAXN];
-
-
 void dfs(int u, int last) {
   sz[u] = 1;
   for(int v : g[u]) {

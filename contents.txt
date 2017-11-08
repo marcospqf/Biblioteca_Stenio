@@ -11,6 +11,7 @@ pontes_art.cpp	Bridges and Articulation Points
 eulerian_path.cpp	Eulerian Tour
 floydWarshall.cpp	Floyd Warshall
 closestpairofpoints.cpp	Closest Pair of Points
+centroiddecomposition.cpp	Centroid Decomposition Example
 
 [Strings]
 aho_corasick.cpp	Aho Corasick
@@ -24,6 +25,9 @@ manacher.cpp	Manacher Algorithm
 [Numerical Algorithms]
 fft_cara.cpp	Fast Fourier Transform
 fft_vazek.cpp	Fast Fourier Transform 2
+fft_xor.cpp	Fast Fourier XOR Transform
+fft_or.cpp	Fast Fourier OR Transform
+fft_and.cpp	Fast Fourier AND Transform
 simpson.cpp	Simpson Algorithm
 mat_pow.cpp	Matrix Exponentiation
 
@@ -61,12 +65,12 @@ divide_conquer.cpp	Divide and Conquer Example
 [Geometry]
 convexhull.cpp	Convex Hull Monotone Chain
 fastgeometry.cpp	Fast Geometry in Cpp
-pointinsidepolygon.cpp	Point Inside Polygon O(lg n)
+pointinsidepolygon.cpp	Point Inside Polygon O(lg N)
+minimum_enclosing_circle.cpp	Minimum Enclosing Circle O(N)
 
 [Data Structures]
 dsu.cpp	Disjoint Set Union
 persistent.cpp	Persistent Segment Tree
-seg_vector.cpp	Segment Tree
 sparse.cpp	Sparse Table
 implicit_cartesian_tree.cpp	Cartesian Tree
 implicit_cartesian_tree2.cpp	Cartesian Tree 2
