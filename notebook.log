@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  8 NOV 2017 01:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  8 NOV 2017 01:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -515,19 +515,22 @@ Missing character: There is no   in font pcrr7t!
 (./code/gaussian_mod.cpp [11]) (./code/gaussian_xor.cpp)
 (./code/integer_determinant.cpp) [12] (./code/dinic.cpp) (./code/matching.cpp)
 (./code/maxbipartidematching.cpp) (./code/blossom.cpp [13])
-(./code/mincostmatching.cpp [14]) (./code/mincostmaxflow.cpp [15])
+(./code/mincostmatching.cpp [14]) (./code/mincostmaxflow2.cpp
+Missing character: There is no Ã in font pcrro7t!
+Missing character: There is no © in font pcrro7t!
+ [15])
 (./code/mincostmaxflowdilson.cpp) (./code/max_clique.cpp [16])
 (./code/convex_hull_trick.cpp) (./code/convexhull_trick2.cpp [17])
 (./code/divide_conquer.cpp) (./code/convexhull.cpp) (./code/fastgeometry.cpp
 [18] [19]) (./code/pointinsidepolygon.cpp [20])
-(./code/minimum_enclosing_circle.cpp) (./code/dsu.cpp) (./code/persistent.cpp
-[21]) (./code/sparse.cpp) (./code/implicit_cartesian_tree.cpp [22])
-(./code/implicit_cartesian_tree2.cpp [23]) (./code/dynamic_mst.cpp [24])
-(./code/invertion_count.cpp) (./code/distinc_element.cpp)
-(./code/ret_histograma.cpp) (./code/mulmod_longlong.cpp
+(./code/minimum_enclosing_circle.cpp) (./code/dsu.cpp [21])
+(./code/persistent.cpp) (./code/sparse.cpp) (./code/implicit_cartesian_tree.cpp
+[22]) (./code/implicit_cartesian_tree2.cpp [23]) (./code/dynamic_mst.cpp
+[24]) (./code/invertion_count.cpp) (./code/distinc_element.cpp)
+(./code/ret_histograma.cpp [25]) (./code/mulmod_longlong.cpp
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no £ in font pcrro7t!
-) [25]
+)
 (./code/josephus.cpp) (./code/josephus2.cpp
 Missing character: There is no â in font pcrro7t!
 Missing character: There is no € in font pcrro7t!
@@ -552,10 +555,10 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  ) 
 Here is how much of TeX's memory you used:
- 13504 strings out of 492995
- 198458 string characters out of 6132704
- 956233 words of memory out of 5000000
- 12561 multiletter control sequences out of 15000+600000
+ 13529 strings out of 492995
+ 198852 string characters out of 6132704
+ 1103233 words of memory out of 5000000
+ 12569 multiletter control sequences out of 15000+600000
  9851 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,12n,68p,246b,1947s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -569,10 +572,10 @@ e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/
 exmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/local/texlive/2017/texmf-dis
 t/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/urw/courier/ucrro8a.pfb>
-Output written on notebook.pdf (26 pages, 329385 bytes).
+Output written on notebook.pdf (26 pages, 330360 bytes).
 PDF statistics:
- 5554 PDF objects out of 6186 (max. 8388607)
- 5462 compressed objects within 55 object streams
- 4221 named destinations out of 4296 (max. 500000)
+ 5574 PDF objects out of 6186 (max. 8388607)
+ 5482 compressed objects within 55 object streams
+ 4238 named destinations out of 4296 (max. 500000)
  609 words of extra memory for PDF output out of 10000 (max. 10000000)
 

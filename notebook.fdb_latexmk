@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1510112640 "notebook.tex" "notebook.pdf" "notebook" 1510112643
+["pdflatex"] 1510113341 "notebook.tex" "notebook.pdf" "notebook" 1510113346
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/courier/pcrb7t.tfm" 1480098688 960 4ab65358b8406f30ef5496c8c096d22b ""
@@ -120,7 +120,7 @@
   "code/max_clique.cpp" 1510099353 1669 854136fcb94984ac15fe6a097557fd51 ""
   "code/maxbipartidematching.cpp" 1510097437 1018 fd2442cee052687707af452f33e0dfe9 ""
   "code/mincostmatching.cpp" 1510099012 3166 97d153b7f38e8209461d1361768744ea ""
-  "code/mincostmaxflow.cpp" 1510100873 2696 f338571d946317dff0d8a1cad3fd5e94 ""
+  "code/mincostmaxflow2.cpp" 1510101767 2992 e0b7f8097434feb9d54e2722d2e7149a ""
   "code/mincostmaxflowdilson.cpp" 1510101251 2201 c666aeae682edec89336c6d975935d42 ""
   "code/minimum_enclosing_circle.cpp" 1510112347 2322 0082912262d57909296130b1bec0257b ""
   "code/mod_inverse.cpp" 1504924401 188 4de4c303e45b61c25221c9fb1ad911cf ""
@@ -141,14 +141,14 @@
   "code/sufix_array_dilsunguinha.cpp" 1507659001 2942 41feacaa0f1dbd3113cd2c1d54e20fc9 ""
   "code/template.cpp" 1510098808 540 1f2393a01f42e3a7f6c17373627a6db2 ""
   "code/vimrc.txt" 1510099655 45 b4fd3aa741f65c896a21859b5212033d ""
-  "contents.tex" 1510112637 7393 b036101259d79e4967aa7b53f6afc5c3 ""
-  "notebook.aux" 1510112643 14709 e1731a2353ee3ad7d84adc564e3046c0 ""
-  "notebook.out" 1510112643 5108 01b31ff3dd67e34ac2d682e1dbba5804 ""
+  "contents.tex" 1510113337 7394 4192f85bd2a07ff7efe83d270b1c239a ""
+  "notebook.aux" 1510113345 14710 74577e2fbd229b64a088977eb3c3f3c2 ""
+  "notebook.out" 1510113345 5108 01b31ff3dd67e34ac2d682e1dbba5804 ""
   "notebook.tex" 1510111755 2027 e3e53eb592ef05ea796ab1d976181c6e ""
-  "notebook.toc" 1510112643 6340 17391eef1a2b5740d97e50779827d90b ""
+  "notebook.toc" 1510113345 6340 78c90060bc25cceb8f6b913de7fa94ae ""
   (generated)
-  "notebook.log"
+  "notebook.toc"
   "notebook.aux"
+  "notebook.log"
   "notebook.pdf"
   "notebook.out"
-  "notebook.toc"

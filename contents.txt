@@ -53,7 +53,7 @@ matching.cpp	Hopcroft-Karp Bipartite Matching
 maxbipartidematching.cpp	Max Bipartite Matching 2
 blossom.cpp	Maximum Matching in General Graphs (Blossom)
 mincostmatching.cpp	Min Cost Matching
-mincostmaxflow.cpp	Min Cost Max Flow
+mincostmaxflow2.cpp	Min Cost Max Flow
 mincostmaxflowdilson.cpp	Min Cost Max Flow Dilson
 max_clique.cpp	Find Maximum Clique in Graphs 
 

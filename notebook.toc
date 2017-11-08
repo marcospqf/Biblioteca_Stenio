@@ -61,7 +61,7 @@
 \contentsline {subsection}{\numberline {8.4}Minimum Enclosing Circle O(N)}{21}{subsection.8.4}
 \contentsline {section}{\numberline {9}Data Structures}{21}{section.9}
 \contentsline {subsection}{\numberline {9.1}Disjoint Set Union}{21}{subsection.9.1}
-\contentsline {subsection}{\numberline {9.2}Persistent Segment Tree}{21}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.2}Persistent Segment Tree}{22}{subsection.9.2}
 \contentsline {subsection}{\numberline {9.3}Sparse Table}{22}{subsection.9.3}
 \contentsline {subsection}{\numberline {9.4}Cartesian Tree}{22}{subsection.9.4}
 \contentsline {subsection}{\numberline {9.5}Cartesian Tree 2}{23}{subsection.9.5}
@@ -70,7 +70,7 @@
 \contentsline {subsection}{\numberline {10.1}Invertion Count}{25}{subsection.10.1}
 \contentsline {subsection}{\numberline {10.2}Distinct Elements in ranges}{25}{subsection.10.2}
 \contentsline {subsection}{\numberline {10.3}Maximum Rectangular Area in Histogram}{25}{subsection.10.3}
-\contentsline {subsection}{\numberline {10.4}Multiplying Two LL mod n}{25}{subsection.10.4}
+\contentsline {subsection}{\numberline {10.4}Multiplying Two LL mod n}{26}{subsection.10.4}
 \contentsline {subsection}{\numberline {10.5}Josephus Problem}{26}{subsection.10.5}
 \contentsline {subsection}{\numberline {10.6}Josephus Problem 2}{26}{subsection.10.6}
 \contentsline {subsection}{\numberline {10.7}Ordered Static Set (Examples)}{26}{subsection.10.7}

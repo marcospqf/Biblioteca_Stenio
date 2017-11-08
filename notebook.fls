@@ -257,9 +257,9 @@ INPUT code/blossom.cpp
 INPUT code/mincostmatching.cpp
 INPUT code/mincostmatching.cpp
 INPUT code/mincostmatching.cpp
-INPUT code/mincostmaxflow.cpp
-INPUT code/mincostmaxflow.cpp
-INPUT code/mincostmaxflow.cpp
+INPUT code/mincostmaxflow2.cpp
+INPUT code/mincostmaxflow2.cpp
+INPUT code/mincostmaxflow2.cpp
 INPUT code/mincostmaxflowdilson.cpp
 INPUT code/mincostmaxflowdilson.cpp
 INPUT code/mincostmaxflowdilson.cpp
