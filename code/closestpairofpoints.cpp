@@ -1,22 +1,3 @@
-#include<bits/stdc++.h>
-using namespace std;
-#define sc(a) scanf("%d", &a)
-#define sc2(a,b) scanf("%d%d", &a, &b)
-#define sc3(a,b,c) scanf("%d%d%d", &a, &b, &c)
-#define pri(x) printf("%d\n", x)
-#define mp make_pair
-#define pb push_back
-#define BUFF ios::sync_with_stdio(false);
-#define imprime(v) for(int X=0;X<v.size();X++) printf("%d ", v[X]); printf("\n");
-#define endl "\n"
-const long double pi= acos(-1);
-typedef long long int ll;
-typedef long double ld;
-typedef pair<int,int> ii;
-typedef vector<int> vi;
-typedef vector< vector< int > > vvi;
-const int MOD=1e9+7;
-const ll LINF=0x3f3f3f3f3f3f3f3f;
 double INF = 1e100;
 double EPS = 1e-12;
 
