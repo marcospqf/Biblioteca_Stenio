@@ -60,7 +60,6 @@ divide_conquer.cpp	Divide and Conquer Example
 
 [Geometry]
 convexhull.cpp	Convex Hull Monotone Chain
-
 fastgeometry.cpp	Fast Geometry in Cpp
 pointinsidepolygon.cpp	Point Inside Polygon O(lg n)
 
@@ -71,6 +70,7 @@ seg_vector.cpp	Segment Tree
 sparse.cpp	Sparse Table
 implicit_cartesian_tree.cpp	Cartesian Tree
 implicit_cartesian_tree2.cpp	Cartesian Tree 2
+dynamic_mst.cpp	Dynamic MST
 
 [Miscellaneous]
 invertion_count.cpp	Invertion Count
@@ -79,7 +79,6 @@ ret_histograma.cpp	Maximum Rectangular Area in Histogram
 mulmod_longlong.cpp	Multiplying Two LL mod n
 josephus.cpp	Josephus Problem
 josephus2.cpp	Josephus Problem 2
-dynamic_mst.cpp	Dynamic MST
 ordered_static_set.cpp	Ordered Static Set (Examples)
 
 [UE]
