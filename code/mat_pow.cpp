@@ -1,39 +1,41 @@
-//matmul multiplica m1 por m2
-//matpow exponencia a matrix m1 por p
-//mul vet multiplica a matrix m1 pelo vetor vet
-vvi matmul(vvi &m1, vvi &m2)
+//Use: vector<vector<T>> result = MatPow<T>(m1, expoent)
+	template<class T>
+vector<vector<T>> MatMul(vector<vector<T>> &m1, vector<vector<T>> &m2)
 {
-  vvi ans;
-  ans.resize(m1.size(), vi(m2.size(), 0));
-  for (int i = 0; i < n; i++)
-    for (int j = 0; j < n; j++)
-      for (int k = 0; k < n; k++) {
-        ans[i][j] += m1[i][k] * m2[k][j];
-        ans[i][j] %= MOD;
-      }
-  return ans;
+	vector<vector<T>> ans;
+	ans.resize(m1.size(), vector<T>(m2.size()));
+	for (int i = 0; i < m1.size(); i++)
+		for (int j = 0; j < m2.size(); j++)
+			for (int k = 0; k < m2.size(); k++) {
+				ans[i][j] += m1[i][k] * m2[k][j];
+				ans[i][j] %= MOD;
+			}
+	return ans;
 }
-vvi matpow(vvi &m1, ll p)
+
+	template<class T>
+vector< vector<T> > MatPow(vector<vector<T>>  &m1, ll p)
 {
-  vvi ans;
-  ans.resize(m1.size(), vi(m1.size(), 0));
-  for (int i = 0; i < n; i++) ans[i][i] = 1;
-  while (p) {
-    if (p & 1) ans = matmul(ans, m1);
-    m1 = matmul(m1, m1);
-    p >>= 1;
-  }
-  return ans;
+	vector< vector<T>> ans;
+	ans.resize(m1.size(), vector<T>(m1.size()));
+	for (int i = 0; i < m1.size(); i++) ans[i][i] = 1;
+	while (p&1) {
+		if (p %2) ans = MatMul(ans, m1);
+		m1 = MatMul(m1, m1);
+		p>>=1;
+	}
+	return ans;
 }
 // VETOR TEM N LINHAS E A MATRIZ E QUADRADA
-vi mulvet(vvi &m1, vi &vet)
+	template<class T>
+vector<T> MulVet(vector<vector<T>> &m1, vector<T> &vet)
 {
-  vi ans;
-  ans.resize(vet.size(), 0);
-  for (int i = 0; i < n; i++)
-    for (int j = 0; j < n; j++) {
-      ans[i] += (m1[i][j] * vet[j]);
-      ans[i] %= MOD;
-    }
-  return ans;
+	vector<T> ans;
+	ans.resize(vet.size());
+	for (int i = 0; i < m1.size(); i++)
+		for (int j = 0; j < vet.size(); j++) {
+			ans[i] += (m1[i][j] * vet[j]);
+			ans[i] %= MOD;
+		}
+	return ans;
 }
