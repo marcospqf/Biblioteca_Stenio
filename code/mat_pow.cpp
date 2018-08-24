@@ -19,7 +19,7 @@ vector< vector<T> > MatPow(vector<vector<T>>  &m1, ll p)
 	vector< vector<T>> ans;
 	ans.resize(m1.size(), vector<T>(m1.size()));
 	for (int i = 0; i < m1.size(); i++) ans[i][i] = 1;
-	while (p&1) {
+	while (p>0) {
 		if (p %2) ans = MatMul(ans, m1);
 		m1 = MatMul(m1, m1);
 		p>>=1;

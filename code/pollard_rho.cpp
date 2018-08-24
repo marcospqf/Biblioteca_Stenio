@@ -1,119 +1,129 @@
-ll u;
-ll t;
-const int tamteste=5;
-ll abss(ll v){ return v>=0 ? v : -v;}
-ll randerson()
-{
-  ld pseudo=(ld)rand()/(ld)RAND_MAX;
-  return (ll)(round((ld)range*pseudo))+1LL;
-}
- 
-ll mulmod(ll a, ll b, ll mod)
-{
-  ll ret=0;
-  while(b>0)
-  {
-    if(b%2!=0) ret=(ret+a)%mod;
-    a=(a+a)%mod;
-    b=b/2LL;
-  }
-  return ret;
-}
- 
-ll expmod(ll a, ll e, ll mod)
-{
-  ll ret=1;
-  while(e>0)
-  {
-    if(e%2!=0) ret=mulmod(ret,a,mod);
-    a=mulmod(a,a,mod);
-    e=e/2LL;
-  }
-  return ret;
-}
-bool jeova(ll a, ll n)
-{
-  ll x = expmod(a,u,n);
-  ll last=x;
-  for(int i=0;i<t;i++)
-  {
-    x=mulmod(x,x,n);
-    if(x==1 and last!=1 and last!=(n-1)) return true;
-    last=x;
-  }
-  if(x==1) return false;
-  return true;
-}
- 
-bool isprime(ll n)
-{
- 
-  u=n-1;
-  t=0;
-  while(u%2==0)
-  {
-    t++;
-    u/=2LL;
-  }
-  if(n==2) return true;
-  if(n==3) return true;
-  if(n%2==0) return false;
-  if(n<2) return false;
-  for(int i=0;i<tamteste;i++)
-  {
-    ll v = randerson()%(n-2)+1;
-    //cout<<"jeova "<<v<<" "<<n<<endl;
-    if(jeova(v,n)) return false;
-  }
-  return true;
-}
- 
-ll gcd(ll a, ll b){ return !b ? a : gcd(b,a%b);}
- 
-ll calc(ll x, ll n, ll c)
-{
-  return (mulmod(x,x,n)+c)%n;
-}
-ll pollard(ll n)
-{
-  ll d=1;
-  ll i=1;
-  ll k=1;
-  ll x=2;
-  ll y=x;
-  ll c;
-  do
-  {
-    c=randerson()%n;
-  }while(c==0 or (c+2)%n==0);
-  while(d!=n)
-  {
-    if(i==k)
-    {
-        k*=2LL;
-        y=x;
-        i=0;
-    }
-    x=calc(x,n,c);
-    i++;
-    d=gcd(abss(y-x),n);
-    if(d!=1) return d;
-  }
-}
- 
-vector<ll> getdiv(ll n)
-{
-  vector<ll> ret;
-  if(n==1) return ret;
-  if(isprime(n))
-  {
-    ret.pb(n);
-    return ret;
-  }
-  ll d = pollard(n);
-  ret=getdiv(d);
-  vector<ll> ret2=getdiv(n/d);
-  for(int i=0;i<ret2.size();i++) ret.pb(ret2[i]);
+// Fatoracao pelo algoritmo Rho de Pollard
+//
+// A fatoracao nao sai necessariamente ordenada
+// O algoritmo rho encontra um fator de n,
+// e funciona muito bem quando n possui um fator pequeno
+// Eh recomendado chamar srand(time(NULL)) na main
+//
+// Complexidades:
+// prime - O(log^2(n))
+// rho - esperado O(n^(1/4) log(n)) no pior caso
+// fact - esperado menos que O(n^(1/4) log^2(n)) no pior caso
+
+ll mdc(ll a, ll b) { return !b ? a : mdc(b, a % b); }
+
+ll mul(ll x, ll y, ll m) {
+  if (!y)
+    return 0;
+
+  ll ret = mul(x, y >> 1, m);
+  ret = (ret + ret) % m;
+  if (y & 1)
+    ret = (ret + x) % m;
   return ret;
 }
 
+ll pow(ll x, ll y, ll m) {
+  if (!y)
+    return 1;
+
+  ll ret = pow(x, y >> 1, m);
+  ret = mul(ret, ret, m);
+  if (y & 1)
+    ret = mul(ret, x, m);
+  return ret;
+}
+
+// teste de primalidade de
+// Miller-Rabin
+bool prime(ll n) {
+  if (n < 2)
+    return 0;
+  if (n <= 3)
+    return 1;
+  if (n % 2 == 0)
+    return 0;
+
+  ll d = n - 1;
+  int r = 0;
+  while (d % 2 == 0) {
+    r++;
+    d /= 2;
+  }
+
+  // com esses primos, o teste funciona garantido para n <= 3*10^18
+  // funciona para n <= 3*10^24 com os primos ate 41
+  int a[9] = {2, 3, 5, 7, 11, 13, 17, 19, 23};
+  for (int i = 0; i < 9; i++) {
+    if (a[i] >= n)
+      break;
+    ll x = pow(a[i], d, n);
+    if (x == 1 or x == n - 1)
+      continue;
+
+    bool deu = 1;
+    for (int j = 0; j < r - 1; j++) {
+      x = pow(x, 2, n);
+      if (x == n - 1) {
+        deu = 0;
+        break;
+      }
+    }
+    if (deu)
+      return 0;
+  }
+  return 1;
+}
+
+// acha um divisor de n
+// tempo esperado no pior caso: O(n^(1/4) log(n))
+// na pratica, eh bem mais rapido
+ll rho(ll n) {
+  if (n == 1 or prime(n))
+    return n;
+  if (n % 2 == 0)
+    return 2;
+
+  while (1) {
+    ll x = 2, y = 2;
+
+    // tenta com essa constante
+    ll c = (rand() / (double)RAND_MAX) * (n - 1) + 1;
+    // divisor
+    ll d = 1;
+
+    while (d == 1) {
+      x = (pow(x, 2, n) + c) % n;
+      y = (pow(y, 2, n) + c) % n;
+      y = (pow(y, 2, n) + c) % n;
+
+      d = mdc(abs(x - y), n);
+
+      // |x-y| = 0 -> ciclo
+      // tenta com outra constante
+      if (d == n)
+        break;
+    }
+
+    // sucesso -> retorna o divisor
+    if (d != n)
+      return d;
+  }
+}
+
+// acha os divisores primos de n,
+// nao necessariamente ordenados
+vector<ll> fact(ll n) {
+  vector<ll> ret;
+  if (n == 1)
+    return ret;
+  if (prime(n))
+    ret.pb(n);
+  else {
+    ll d = rho(n);
+    ret = fact(d);
+    vector<ll> ret2 = fact(n / d);
+    ret.insert(ret.end(), ret2.begin(), ret2.end());
+    return ret;
+  }
+}

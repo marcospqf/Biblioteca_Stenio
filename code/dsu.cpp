@@ -1,22 +1,22 @@
 const int N=500010;
 int p[N],Rank[N];
-void init()
+void Init()
 {
 	for(int i=0;i<N;i++) p[i]=i, Rank[i]=1;
 }
-int findSet(int i)
+int FindSet(int i)
 {
 	if(p[i]==i) return i;
-	return p[i]=findSet(p[i]);
+	return p[i]=FindSet(p[i]);
 }
-bool sameSet(int i, int j)
+bool SameSet(int i, int j)
 {
-	return (findSet(i) == findSet(j));
+	return (FindSet(i) == FindSet(j));
 }
-void unionSet(int i, int j)
+void UnionSet(int i, int j)
 {
-	if (!sameSet(i, j)) {
-		int x = findSet(i), y=findSet(j);
+	if (!SameSet(i, j)) {
+		int x = FindSet(i), y=FindSet(j);
 		if (Rank[x] > Rank[y]){
 			p[y] = x;
 			Rank[x] += Rank[y];
