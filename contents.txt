@@ -32,7 +32,7 @@ simpson.cpp	Simpson Algorithm
 mat_pow.cpp	Matrix Exponentiation
 
 [Mathematics]
-chinese_remainder.cpp	Chinese Remainder
+chinese_remainder.cpp	Chinese Remainderi confiavel
 chinese_remainder2.cpp	Chinese Remainder 2
 mat_pow.cpp	Matrix Exponentiation
 pascal.cpp	Pascal Triangle

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  8 NOV 2017 01:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  14 SEP 2018 21:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -478,13 +478,13 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
 
 
 ])
-(./code/kosaraju.cpp) (./code/lca.cpp [2]) (./code/pontes_art.cpp)
+(./code/kosaraju.cpp) (./code/lca.cpp) (./code/pontes_art.cpp [2])
 (./code/eulerian_path.cpp) (./code/floydWarshall.cpp)
 (./code/closestpairofpoints.cpp [3]) (./code/centroiddecomposition.cpp)
-(./code/aho_corasick.cpp) (./code/kmp.cpp [4]) (./code/hashing.cpp
+(./code/aho_corasick.cpp) (./code/kmp.cpp) (./code/hashing.cpp
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no © in font pcrro7t!
-)
+ [4])
 (./code/sufix_array.cpp) (./code/sa3.cpp [5])
 (./code/sufix_array_dilsunguinha.cpp) (./code/manacher.cpp [6])
 (./code/fft_cara.cpp) (./code/fft_vazek.cpp [7]) (./code/fft_xor.cpp)
@@ -494,7 +494,7 @@ Missing character: There is no © in font pcrro7t!
 Missing character: There is no â in font pcrro7t!
 Missing character: There is no € in font pcrro7t!
 Missing character: There is no ™ in font pcrro7t!
-) [9] (./code/mat_pow.cpp) (./code/pascal.cpp
+) (./code/mat_pow.cpp [9]) (./code/pascal.cpp
 Missing character: There is no Â in font pcrr7t!
 Missing character: There is no   in font pcrr7t!
 Missing character: There is no Â in font pcrr7t!
@@ -511,42 +511,41 @@ Missing character: There is no Â in font pcrr7t!
 Missing character: There is no   in font pcrr7t!
 )
 (./code/phi.cpp) (./code/pollard_rho.cpp [10]) (./code/extended_euclid.cpp)
-(./code/mod_inverse.cpp) (./code/mul_inv.cpp) (./code/gaussian.cpp)
-(./code/gaussian_mod.cpp [11]) (./code/gaussian_xor.cpp)
-(./code/integer_determinant.cpp) [12] (./code/dinic.cpp) (./code/matching.cpp)
-(./code/maxbipartidematching.cpp) (./code/blossom.cpp [13])
-(./code/mincostmatching.cpp [14]) (./code/mincostmaxflow2.cpp
+(./code/mod_inverse.cpp) (./code/mul_inv.cpp) (./code/gaussian.cpp) [11]
+(./code/gaussian_mod.cpp) (./code/gaussian_xor.cpp)
+(./code/integer_determinant.cpp [12]) (./code/dinic.cpp) (./code/matching.cpp)
+(./code/maxbipartidematching.cpp [13]) (./code/blossom.cpp) [14]
+(./code/mincostmatching.cpp) (./code/mincostmaxflow2.cpp
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no © in font pcrro7t!
  [15])
-(./code/mincostmaxflowdilson.cpp) (./code/max_clique.cpp [16])
+(./code/mincostmaxflowdilson.cpp) [16] (./code/max_clique.cpp)
 (./code/convex_hull_trick.cpp) (./code/convexhull_trick2.cpp [17])
-(./code/divide_conquer.cpp) (./code/convexhull.cpp) (./code/fastgeometry.cpp
-[18] [19]) (./code/pointinsidepolygon.cpp [20])
-(./code/minimum_enclosing_circle.cpp) (./code/dsu.cpp [21])
+(./code/divide_conquer.cpp) (./code/convexhull.cpp [18])
+(./code/fastgeometry.cpp [19]) (./code/pointinsidepolygon.cpp [20])
+(./code/minimum_enclosing_circle.cpp) [21] (./code/dsu.cpp)
 (./code/persistent.cpp) (./code/sparse.cpp) (./code/implicit_cartesian_tree.cpp
 [22]) (./code/implicit_cartesian_tree2.cpp [23]) (./code/dynamic_mst.cpp
-[24]) (./code/invertion_count.cpp) (./code/distinc_element.cpp)
-(./code/ret_histograma.cpp [25]) (./code/mulmod_longlong.cpp
+[24]) (./code/invertion_count.cpp) (./code/distinc_element.cpp) [25]
+(./code/ret_histograma.cpp) (./code/mulmod_longlong.cpp
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no £ in font pcrro7t!
-)
-(./code/josephus.cpp) (./code/josephus2.cpp
+) (./code/josephus.cpp)
+(./code/josephus2.cpp
 Missing character: There is no â in font pcrro7t!
 Missing character: There is no € in font pcrro7t!
 Missing character: There is no ¦ in font pcrro7t!
 ) (./code/ordered_static_set.cpp
 Missing character: There is no Ã in font pcrro7t!
 Missing character: There is no © in font pcrro7t!
-))
-[26]
+)) [26]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
  (./notebook.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `notebook.out' has not changed.
-(rerunfilecheck)             Checksum: 01B31FF3DD67E34AC2D682E1DBBA5804;5108.
+(rerunfilecheck)             Checksum: 5315659E5B8CEB99A5EA2E0111026FBE;5119.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -555,10 +554,10 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  ) 
 Here is how much of TeX's memory you used:
- 13529 strings out of 492995
- 198852 string characters out of 6132704
- 1103233 words of memory out of 5000000
- 12569 multiletter control sequences out of 15000+600000
+ 13545 strings out of 492995
+ 199209 string characters out of 6132704
+ 1205244 words of memory out of 5000000
+ 12559 multiletter control sequences out of 15000+600000
  9851 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,12n,68p,246b,1947s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -572,10 +571,10 @@ e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/
 exmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/local/texlive/2017/texmf-dis
 t/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/urw/courier/ucrro8a.pfb>
-Output written on notebook.pdf (26 pages, 330360 bytes).
+Output written on notebook.pdf (26 pages, 330899 bytes).
 PDF statistics:
- 5574 PDF objects out of 6186 (max. 8388607)
- 5482 compressed objects within 55 object streams
- 4238 named destinations out of 4296 (max. 500000)
+ 5606 PDF objects out of 6186 (max. 8388607)
+ 5513 compressed objects within 56 object streams
+ 4264 named destinations out of 4296 (max. 500000)
  609 words of extra memory for PDF output out of 10000 (max. 10000000)
 

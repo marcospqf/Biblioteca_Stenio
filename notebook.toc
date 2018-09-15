@@ -6,7 +6,7 @@
 \contentsline {subsection}{\numberline {2.1}2 SAT}{1}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Kosaraju}{2}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}LCA}{2}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}Bridges and Articulation Points}{3}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.4}Bridges and Articulation Points}{2}{subsection.2.4}
 \contentsline {subsection}{\numberline {2.5}Eulerian Tour}{3}{subsection.2.5}
 \contentsline {subsection}{\numberline {2.6}Floyd Warshall}{3}{subsection.2.6}
 \contentsline {subsection}{\numberline {2.7}Closest Pair of Points}{3}{subsection.2.7}
@@ -14,7 +14,7 @@
 \contentsline {section}{\numberline {3}Strings}{4}{section.3}
 \contentsline {subsection}{\numberline {3.1}Aho Corasick}{4}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}KMP}{4}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Hashing}{5}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.3}Hashing}{4}{subsection.3.3}
 \contentsline {subsection}{\numberline {3.4}Suffix Array}{5}{subsection.3.4}
 \contentsline {subsection}{\numberline {3.5}Suffix Array 2}{5}{subsection.3.5}
 \contentsline {subsection}{\numberline {3.6}Suffix Array Dilson}{6}{subsection.3.6}
@@ -28,9 +28,9 @@
 \contentsline {subsection}{\numberline {4.6}Simpson Algorithm}{9}{subsection.4.6}
 \contentsline {subsection}{\numberline {4.7}Matrix Exponentiation}{9}{subsection.4.7}
 \contentsline {section}{\numberline {5}Mathematics}{9}{section.5}
-\contentsline {subsection}{\numberline {5.1}Chinese Remainder}{9}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.1}Chinese Remainderi confiavel}{9}{subsection.5.1}
 \contentsline {subsection}{\numberline {5.2}Chinese Remainder 2}{9}{subsection.5.2}
-\contentsline {subsection}{\numberline {5.3}Matrix Exponentiation}{10}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.3}Matrix Exponentiation}{9}{subsection.5.3}
 \contentsline {subsection}{\numberline {5.4}Pascal Triangle}{10}{subsection.5.4}
 \contentsline {subsection}{\numberline {5.5}Euler\'s Totient Function}{10}{subsection.5.5}
 \contentsline {subsection}{\numberline {5.6}Pollard Rho}{10}{subsection.5.6}
@@ -38,29 +38,29 @@
 \contentsline {subsection}{\numberline {5.8}Multiplicative Inverse}{11}{subsection.5.8}
 \contentsline {subsection}{\numberline {5.9}Multiplicative Inverse 2}{11}{subsection.5.9}
 \contentsline {subsection}{\numberline {5.10}Gaussian Elimination}{11}{subsection.5.10}
-\contentsline {subsection}{\numberline {5.11}Gaussian Elimination with MOD}{11}{subsection.5.11}
+\contentsline {subsection}{\numberline {5.11}Gaussian Elimination with MOD}{12}{subsection.5.11}
 \contentsline {subsection}{\numberline {5.12}Gaussian Elimination with XOR}{12}{subsection.5.12}
 \contentsline {subsection}{\numberline {5.13}Determinant}{12}{subsection.5.13}
 \contentsline {section}{\numberline {6}Combinatorial Optimization}{13}{section.6}
 \contentsline {subsection}{\numberline {6.1}Dinic}{13}{subsection.6.1}
 \contentsline {subsection}{\numberline {6.2}Hopcroft-Karp Bipartite Matching}{13}{subsection.6.2}
 \contentsline {subsection}{\numberline {6.3}Max Bipartite Matching 2}{13}{subsection.6.3}
-\contentsline {subsection}{\numberline {6.4}Maximum Matching in General Graphs (Blossom)}{13}{subsection.6.4}
-\contentsline {subsection}{\numberline {6.5}Min Cost Matching}{14}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.4}Maximum Matching in General Graphs (Blossom)}{14}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Min Cost Matching}{15}{subsection.6.5}
 \contentsline {subsection}{\numberline {6.6}Min Cost Max Flow}{15}{subsection.6.6}
 \contentsline {subsection}{\numberline {6.7}Min Cost Max Flow Dilson}{16}{subsection.6.7}
-\contentsline {subsection}{\numberline {6.8}Find Maximum Clique in Graphs}{16}{subsection.6.8}
+\contentsline {subsection}{\numberline {6.8}Find Maximum Clique in Graphs}{17}{subsection.6.8}
 \contentsline {section}{\numberline {7}Dynamic Programming}{17}{section.7}
 \contentsline {subsection}{\numberline {7.1}Convex Hull Trick}{17}{subsection.7.1}
 \contentsline {subsection}{\numberline {7.2}Dinamic Convex Hull Trick}{17}{subsection.7.2}
 \contentsline {subsection}{\numberline {7.3}Divide and Conquer Example}{18}{subsection.7.3}
 \contentsline {section}{\numberline {8}Geometry}{18}{section.8}
 \contentsline {subsection}{\numberline {8.1}Convex Hull Monotone Chain}{18}{subsection.8.1}
-\contentsline {subsection}{\numberline {8.2}Fast Geometry in Cpp}{18}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.2}Fast Geometry in Cpp}{19}{subsection.8.2}
 \contentsline {subsection}{\numberline {8.3}Point Inside Polygon O(lg N)}{20}{subsection.8.3}
 \contentsline {subsection}{\numberline {8.4}Minimum Enclosing Circle O(N)}{21}{subsection.8.4}
-\contentsline {section}{\numberline {9}Data Structures}{21}{section.9}
-\contentsline {subsection}{\numberline {9.1}Disjoint Set Union}{21}{subsection.9.1}
+\contentsline {section}{\numberline {9}Data Structures}{22}{section.9}
+\contentsline {subsection}{\numberline {9.1}Disjoint Set Union}{22}{subsection.9.1}
 \contentsline {subsection}{\numberline {9.2}Persistent Segment Tree}{22}{subsection.9.2}
 \contentsline {subsection}{\numberline {9.3}Sparse Table}{22}{subsection.9.3}
 \contentsline {subsection}{\numberline {9.4}Cartesian Tree}{22}{subsection.9.4}
@@ -69,7 +69,7 @@
 \contentsline {section}{\numberline {10}Miscellaneous}{25}{section.10}
 \contentsline {subsection}{\numberline {10.1}Invertion Count}{25}{subsection.10.1}
 \contentsline {subsection}{\numberline {10.2}Distinct Elements in ranges}{25}{subsection.10.2}
-\contentsline {subsection}{\numberline {10.3}Maximum Rectangular Area in Histogram}{25}{subsection.10.3}
+\contentsline {subsection}{\numberline {10.3}Maximum Rectangular Area in Histogram}{26}{subsection.10.3}
 \contentsline {subsection}{\numberline {10.4}Multiplying Two LL mod n}{26}{subsection.10.4}
 \contentsline {subsection}{\numberline {10.5}Josephus Problem}{26}{subsection.10.5}
 \contentsline {subsection}{\numberline {10.6}Josephus Problem 2}{26}{subsection.10.6}

@@ -144,11 +144,11 @@ INPUT code/kosaraju.cpp
 INPUT code/lca.cpp
 INPUT code/lca.cpp
 INPUT code/lca.cpp
+INPUT code/pontes_art.cpp
+INPUT code/pontes_art.cpp
+INPUT code/pontes_art.cpp
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/vf/adobe/courier/pcrro7t.vf
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/courier/pcrro8r.tfm
-INPUT code/pontes_art.cpp
-INPUT code/pontes_art.cpp
-INPUT code/pontes_art.cpp
 INPUT code/eulerian_path.cpp
 INPUT code/eulerian_path.cpp
 INPUT code/eulerian_path.cpp
