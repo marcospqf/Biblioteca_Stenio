@@ -16,20 +16,24 @@ centroiddecomposition.cpp	Centroid Decomposition Example
 [Strings]
 aho_corasick.cpp	Aho Corasick
 kmp.cpp	KMP
+z_algorithm.cpp	Z algorithm
 hashing.cpp	Hashing
 sufix_array.cpp	Suffix Array
 sa3.cpp	Suffix Array 2
 sufix_array_dilsunguinha.cpp	Suffix Array Dilson
 manacher.cpp	Manacher Algorithm
+recursive_match.cpp	Recursive Match
 
 [Numerical Algorithms]
 fft_cara.cpp	Fast Fourier Transform
-fft_vazek.cpp	Fast Fourier Transform 2
+fft_precisa.cpp	Fast Fourier Precision
 fft_xor.cpp	Fast Fourier XOR Transform
 fft_or.cpp	Fast Fourier OR Transform
 fft_and.cpp	Fast Fourier AND Transform
+ntt.cpp	NTT Fera
 simpson.cpp	Simpson Algorithm
 mat_pow.cpp	Matrix Exponentiation
+karatsuba.cpp	Karatsuba 
 
 [Mathematics]
 chinese_remainder.cpp	Chinese Remainderi confiavel
@@ -61,7 +65,7 @@ max_clique.cpp	Find Maximum Clique in Graphs
 convex_hull_trick.cpp	Convex Hull Trick
 convexhull_trick2.cpp	Dinamic Convex Hull Trick
 divide_conquer.cpp	Divide and Conquer Example
-
+lichao_tree.cpp	Lichao Tree
 [Geometry]
 convexhull.cpp	Convex Hull Monotone Chain
 fastgeometry.cpp	Fast Geometry in Cpp
